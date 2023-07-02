@@ -10,5 +10,4 @@ image: "FSDSS-623.jpg"
 
 {{< youtubepl facyyb7kvn8v >}}
 ___
-## DOWNLOAD
 # https://sblona.com/d/facyyb7kvn8v
