@@ -1,4 +1,4 @@
-baseURL: "https://resplendent-maamoul-c44542.netlify.app/"
+baseURL: "https://j4ev.netlify.app/"
 title: j91
 paginate: 9
 theme: coyote
@@ -10,7 +10,7 @@ theme: coyote
 #     description: I've got something to tell you now, Walkman
 #   social:
 #     - name: github
-#       url: https://resplendent-maamoul-c44542.netlify.app/
+#       url: https://j4ev.netlify.app/
 
 menu:
   main:
