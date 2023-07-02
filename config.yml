@@ -1,4 +1,4 @@
-baseURL: "https://nightswinger.github.io/hugo-theme-coyote/"
+baseURL: "https://resplendent-maamoul-c44542.netlify.app/"
 title: j91
 paginate: 9
 theme: coyote
@@ -10,7 +10,7 @@ theme: coyote
 #     description: I've got something to tell you now, Walkman
 #   social:
 #     - name: github
-#       url: https://github.com/nightswinger/hugo-theme-coyote
+#       url: https://resplendent-maamoul-c44542.netlify.app/
 
 menu:
   main:
