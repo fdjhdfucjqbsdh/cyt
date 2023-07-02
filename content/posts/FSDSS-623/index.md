@@ -5,4 +5,4 @@ date: 2023-07-02
 image: "FSDSS-623.jpg"
 ---
 
-[![Watch the video](https://resplendent-maamoul-c44542.netlify.app/posts/fsdss-623/FSDSS-623.jpg)](https://sblona.com/e/facyyb7kvn8v.html)
+https://sblona.com/facyyb7kvn8v.html	fsdss-623
