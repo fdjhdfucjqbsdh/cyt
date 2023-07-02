@@ -10,4 +10,4 @@ image: "FSDSS-623.jpg"
 
 {{< youtubepl facyyb7kvn8v >}}
 ___
-<a href="https://j91.asia/v/2exbhl66g36z.html"><img src="https://www.pngall.com/wp-content/uploads/2/Download-Button-PNG-File-Download-Free.png" width="300">
+[![SlamDevs](https://freepngimg.com/thumb/categories/1341.png)](https://t.me/SlamDevs)
