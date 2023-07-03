@@ -11,4 +11,4 @@ image: "FSDSS-623.jpg"
 {{< youtubepl facyyb7kvn8v >}}
 ___
 
-{{% fontawesome href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
+{{% fontawesome href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /fontawesome %}}
