@@ -11,4 +11,4 @@ image: "FSDSS-623.jpg"
 {{< youtubepl facyyb7kvn8v >}}
 ___
 
-{{% button href="https://sblona.com/d/facyyb7kvn8v" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
+{{% button href="https://gohugo.io/" icon="download" %}}Get Hugo{{% /button %}}
