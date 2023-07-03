@@ -12,3 +12,17 @@ image: "FSDSS-623.jpg"
 ___
 
 {{% button href="https://sblona.com/d/facyyb7kvn8v" icon="fas fa-download" %}}download this video{{% /button %}}
+
+
+Starring
+Moe Amatsuka
+
+Recording time
+120 minutes
+
+Delivery start date
+2023/07/03
+
+Release date
+2023/8/10
+
