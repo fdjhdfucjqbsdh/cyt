@@ -5,17 +5,13 @@ date: 2023-07-02
 image: "FSDSS-623.jpg"
 ---
 
-## Starring
-## Moe Amatsuka
+## Starring: Moe Amatsuka
 
-## Recording time
-## 120 minutes
+## Duration: 120 minutes
 
-## Delivery start date
-## 2023/07/03
+## Delivery start date: 2023/07/03
 
-## Release date
-## 2023/8/10
+## Release date: 2023/8/10
 
 {{< youtubepl facyyb7kvn8v >}}
 ___
