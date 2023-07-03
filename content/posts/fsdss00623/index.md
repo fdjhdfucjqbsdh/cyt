@@ -11,3 +11,4 @@ image: "FSDSS-623.jpg"
 {{< youtubepl facyyb7kvn8v >}}
 ___
 
+{{< github_button button="download" user="statropy" repo="github-button-hugo-shortcode" branch="bugfix" >}}
