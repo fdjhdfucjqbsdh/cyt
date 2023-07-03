@@ -11,4 +11,3 @@ image: "FSDSS-623.jpg"
 {{< youtubepl facyyb7kvn8v >}}
 ___
 
-{{% button href="https://gohugo.io/" icon="download" %}}Get Hugo{{% /button %}}
