@@ -11,4 +11,5 @@ image: "FSDSS-623.jpg"
 {{< youtubepl facyyb7kvn8v >}}
 ___
 
-{{< github_button button="download" user="statropy" repo="github-button-hugo-shortcode" branch="bugfix" >}}
+{{% link-button-sc href="#" class="my-button--raised crazy-button" value="Click Me Real Good" %}}
+
