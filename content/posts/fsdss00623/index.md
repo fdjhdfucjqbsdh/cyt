@@ -11,5 +11,4 @@ image: "FSDSS-623.jpg"
 {{< youtubepl facyyb7kvn8v >}}
 ___
 
-{{% link-button-sc href="https://google.com" class="my-button--raised crazy-button" value="Click Me Real Good" %}}
-
+{{< fontawesome class="fas fa-ellipsis-h" >}}
