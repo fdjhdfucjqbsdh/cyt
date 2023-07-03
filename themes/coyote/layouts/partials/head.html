@@ -1,6 +1,12 @@
 <meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <link rel="icon" href="https://raw.githubusercontent.com/javsubs91/javsubs91/main/favicon.ico">
+  <!-- Add other content here -->
+
+  {{ if .HasShortcode "github_button" }}
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  {{end}}
+
 {{ template "_internal/google_analytics.html" . }}
 
 <title>{{ if not .IsHome }}{{ if .Title }}{{ .Title }} - {{ end }}{{ end }}{{ .Site.Title }}</title>
