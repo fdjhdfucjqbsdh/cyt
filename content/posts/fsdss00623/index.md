@@ -11,4 +11,6 @@ image: "FSDSS-623.jpg"
 {{< youtubepl facyyb7kvn8v >}}
 ___
 
-Hard at {{% fontawesome "solid/wrench" %}} work
+{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
+{{% button href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
+{{% button href="https://getgrav.org/" icon="fas fa-download" icon-position="right" %}}Get Grav with icon right{{% /button %}}
