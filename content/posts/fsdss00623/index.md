@@ -10,4 +10,5 @@ image: "FSDSS-623.jpg"
 
 {{< youtubepl facyyb7kvn8v >}}
 ___
-[![SlamDevs](https://raw.githubusercontent.com/fdjhdfucjqbsdh/hgo/master/blue-download-button.png)](https://sblona.com/d/facyyb7kvn8v)
+
+{{% button href="https://sblona.com/d/facyyb7kvn8v" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
