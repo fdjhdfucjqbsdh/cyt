@@ -1,6 +1,6 @@
 ---
 author: j91.asia
-title: MOGI-095 [First Shooting] [Cumshot Approval] 1 Experienced Person. Active Music Student Asuka-Chan, 19 Years Old, Wants To Be Blamed! Get The First Vaginal Cum Shot With A Relentless Toy Attack And A Raw Fuck Intense Pisces To Asuka Who Has A M Temperament
+title: MOGI-095 [First Shooting] [Cumshot Approval] 1 Experienced Person. Active Music Student Asuka-Chan, 19 Years Old, Wants To Be Blamed!
 date: 2023-07-04
 image: "MOGI095.jpg"
 ---
