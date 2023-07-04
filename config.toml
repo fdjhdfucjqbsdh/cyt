@@ -1,35 +1,78 @@
-[build]
-publish = "public"
-command = "hugo --gc --minify"
+baseurl = "/"
+title = "j91"
+theme = "coyote"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
-[context.production.environment]
-HUGO_VERSION = "0.115.0"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+paginate = 20
 
-[context.split1]
-command = "hugo --gc --minify --enableGitInfo"
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
-[context.split1.environment]
-HUGO_VERSION = "0.115.0"
-HUGO_ENV = "production"
+disqusShortname = "kksudo"
+enableGitInfo = true
 
-[context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+[params]
+author = "Kirill Kazakov"
+info = ["Full Stack DevOps and Magician"]
+description = "Kirill Kazakov's personal page"
+keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
+gravatar = "k@kazakov.xyz"
 
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.115.0"
+since = 2010
+enableTwemoji = true
+colorScheme = "auto"
+hidecolorschemetoggle = false
+# Git Commit in Footer, uncomment the line below to enable it
+commit = "https://github.com/kksudo/kazakov.xyz/tree/"
+powered_by = true
+# Series see also post count
+maxSeeAlsoItems = 5
 
-[context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+[taxonomies]
+tag = "tags"
+author = "authors"
 
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.115.0"
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/kksudo/"
+target = "_blank"
+[[params.social]]
+name = "Gitlab"
+icon = "fa fa-gitlab fa-2x"
+weight = 2
+url = "https://gitlab.com/kksudo"
+target = "_blank"
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-instagram fa-2x"
+weight = 3
+url = "https://www.instagram.com/kk_sudo/"
+target = "_blank"
+[[params.social]]
+name = "Linkedin"
+icon = "fa fa-linkedin fa-2x"
+weight = 5
+url = "https://www.linkedin.com/in/kazakovk/"
+target = "_blank"
+[[params.social]]
+name = "k@kazakov.xyz"
+icon = "fa fa-envelope fa-2x"
+weight = 6
+url = "mailto:k@kazakov.xyz"
+target = "_blank"
 
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
+# Menu links
+[[languages.en.menu.main]]
+name = "Home"
+weight = 1
+url  = "/"
+[[languages.en.menu.main]]
+name = "About"
+weight = 2
+url = "about/"
 
-[[redirects]]
-from = "/npmjs/*"
-to = "/npmjs/"
-status = 200
