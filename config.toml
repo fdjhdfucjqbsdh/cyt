@@ -1,3 +1,8 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "coyote"
+
+
 [build]
 publish = "public"
 command = "hugo --gc --minify"
