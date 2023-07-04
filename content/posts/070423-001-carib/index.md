@@ -1,6 +1,6 @@
 ---
 author: j91.asia
-title: Caribbeancom カリビアンコム 070423-001 倉沢あゆむの家で撮影しちゃおう 倉沢あゆむ
+title: Caribbeancom 070423-001 Shoot In Her Home: Ayumu Kurasawa
 date: 2023-07-03
 image: "070423-001-carib.jpg"
 ---
