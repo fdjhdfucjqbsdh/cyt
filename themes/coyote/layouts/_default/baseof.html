@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-..
-{{ $paginator := slice }}
-{{ if .IsHome }}
-  {{ $paginator = .Paginate (where .Site.RegularPages "Section" "blog") }}
-{{ else }}
-  {{ $paginator = .Paginate .Pages }}
-{{ end }}
-..
     {{- partial "head.html" . -}}
   </head>
   <body>
