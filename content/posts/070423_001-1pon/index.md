@@ -1,6 +1,6 @@
 ---
 author: j91.asia
-title: 1Pondo 070423_001 Welcome To Luxury Spa Mirei Imada
+title: 070423_001-1pon Welcome To Luxury Spa Mirei Imada
 date: 2023-07-04
 image: "070423_001-1pon.jpg"
 ---
