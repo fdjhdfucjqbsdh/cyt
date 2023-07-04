@@ -16,4 +16,4 @@ ___
 
 `Duration: 120 min`
 
-`Maker:	FALENO`
+`Maker:	Faleno`

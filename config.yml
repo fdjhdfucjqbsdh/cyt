@@ -1,6 +1,6 @@
-baseURL: "https://j4ev.netlify.app/"
+baseURL: "/"
 title: j91 - Streaming Site
-paginate: 9
+paginate: 18
 theme: coyote
 
 # params:
@@ -10,7 +10,7 @@ theme: coyote
 #     description: I've got something to tell you now, Walkman
 #   social:
 #     - name: github
-#       url: https://j4ev.netlify.app/
+#       url: https://j4ev.pages.dev
 
 menu:
   main:

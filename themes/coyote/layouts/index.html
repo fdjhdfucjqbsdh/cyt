@@ -1,6 +1,5 @@
 {{ define "main" }}
   {{- partial "profile.html" }}
-    {{ partial "favicon.html" . }}
 
   {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $paginator := .Paginate $pages }}
