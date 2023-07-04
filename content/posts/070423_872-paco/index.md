@@ -1,6 +1,6 @@
 ---
 author: j91.asia
-title: Pacopacomama 070423_872 First Document By Amateur Wife, 121 : Ako Fujimoto
+title: Pacopacomama 070423_872 First Document By Amateur Wife, 121 Ako Fujimoto
 date: 2023-07-04
 image: "070423_872-paco.jpg"
 ---
