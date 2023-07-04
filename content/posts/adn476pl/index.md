@@ -8,7 +8,6 @@ image: "adn476pl.jpg"
 
 ___
 
-{{% button href="https://streamsb.net/d/5wmfsxwi2qs1" icon="fas fa-download" %}}download this video{{% /button %}}
 ### About
 
 `Release date: 2023-07-04`
