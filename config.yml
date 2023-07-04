@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://nightswinger.github.io/hugo-theme-coyote/"
 title: j91 - Streaming Site
 paginate: 9
 theme: coyote
