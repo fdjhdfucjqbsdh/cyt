@@ -1,7 +1,7 @@
 ---
-author: j91.asia
+author: j91
 title: Caribbeancom 070423-001 Shoot In Her Home: Ayumu Kurasawa
-date: 2023-07-03
+date: 2023-07-04
 image: "070423-001-carib.jpg"
 ---
 
