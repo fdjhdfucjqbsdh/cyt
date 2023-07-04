@@ -1,4 +1,4 @@
-baseURL: "https://nightswinger.github.io/hugo-theme-coyote/"
+baseURL: "https://nightswinger.github.io/hugo-theme-coyote"
 title: j91 - Streaming Site
 paginate: 9
 theme: coyote
@@ -10,7 +10,7 @@ theme: coyote
 #     description: I've got something to tell you now, Walkman
 #   social:
 #     - name: github
-#       url: https://j4ev.pages.dev/
+#       url: https://j4ev.pages.dev
 
 menu:
   main:
