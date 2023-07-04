@@ -1,8 +1,0 @@
-baseURL = "https://j4ev.pages.dev/"
-languageCode = "en-us"
-title = "j91"
-theme = "coyote"
-
-
-[outputs]
-  home = ['HTML', 'JSON']
