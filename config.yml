@@ -1,6 +1,6 @@
 baseURL: "/"
 title: j91 - Streaming Site
-paginate: 18
+paginate: 12
 theme: coyote
 
 # params:
