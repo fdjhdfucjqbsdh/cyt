@@ -21,8 +21,4 @@ outputs:
     home:
         - HTML
         - JSON
-params:
-  grades:
-  - c
-  - u
-  - a
+
