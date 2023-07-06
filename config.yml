@@ -21,3 +21,8 @@ outputs:
     home:
         - HTML
         - JSON
+params:
+  grades:
+  - ce
+  - un
+  - am
