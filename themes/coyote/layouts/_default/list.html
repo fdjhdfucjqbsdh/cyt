@@ -10,7 +10,8 @@
   </div>
 
   <div class="results">
-    {{ range sort (where .Site.RegularPages "Section" "recipes") "Title" }}
+    {{- $pages := union .RegularPages .Sections }}
+    {{ range $pages }}
     <div class="resultItem">
       <div class="resultItem__media" style="background-image: url({{ (print .Permalink .Params.image) | absURL }});"></div>
       <div class="resultItem__body">
