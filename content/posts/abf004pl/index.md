@@ -1,7 +1,7 @@
 ---
 author: j91
 title: ABF-004
-date: 2023-07-06T01:00:00Z
+date: 2023-07-06
 image: "abf004pl.jpg"
 ---
 
