@@ -23,6 +23,6 @@ outputs:
         - JSON
 params:
   grades:
-  - ce
-  - un
-  - am
+  - c
+  - u
+  - a
