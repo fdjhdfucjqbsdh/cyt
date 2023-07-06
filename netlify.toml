@@ -34,5 +34,3 @@ from = "/npmjs/*"
 to = "/npmjs/"
 status = 200
 
-[params]
-  grades = ['c', 'u', 'a']
