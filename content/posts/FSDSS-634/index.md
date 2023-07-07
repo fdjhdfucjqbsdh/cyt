@@ -10,10 +10,10 @@ categories: [censored] [faleno]
 ###  "Would You Like To Try The Teacher’s Amazing Technique?"I’m A Student Who Had A Girlfriend, And I Managed Her To Give Me A Blowjob And Ejaculate And I’m Going To Eliminate Her Balls Until My Balls Are Empty… A Jealous Slut Teacher Nene Yoshitaka
 ___
 
-{{< youtubepl streamsb_fileid >}}
+{{< youtubepl ixbbsqt0wd86 >}}
 ___
 
-{{% button href="https://streamsb.net/d/streamsb_fileid" icon="fas fa-download" %}}download this video{{% /button %}}
+{{% button href="https://streamsb.net/d/ixbbsqt0wd86" icon="fas fa-download" %}}download this video{{% /button %}}
 ### About
 
 `Release date: 2023-07-07`
