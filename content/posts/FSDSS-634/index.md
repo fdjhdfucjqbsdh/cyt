@@ -18,4 +18,6 @@ ___
 
 `Release date: 2023-07-07`
 
+`torrent: magnet:?xt=urn:btih:146da17d326140668809016cf56f6666e39309d6&dn=FSDSS-634`
+
 `Genre:	Censored`
