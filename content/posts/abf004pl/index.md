@@ -1,6 +1,6 @@
 ---
-author: j91.asia
-title: (ce) ABF-004
+author: j91
+title: ABF-004
 date: 2023-07-06
 image: "abf004pl.jpg"
 ---
