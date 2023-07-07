@@ -1,11 +1,11 @@
 ---
 author: j91.asia
-title: (c) code_title
+title: (c) SSIS-780
 date: 2023-07-07
-image: "isi_image.jpg"
+image: "ssis780pl.jpg"
 ---
 
-### title_full
+### "I'll Show You My Boobs, So Show Me Where Your Sperm Comes Out (Heart)" A Slutty Teacher Who Makes My Womb Twitch To A Younger Innocent Boy Wants To Ejaculate Me Every Day! Saki Okuda
 ___
 
 {{< youtubepl jh8imqzwye45 >}}
@@ -16,6 +16,6 @@ ___
 
 `Release date: 2023-07-11`
 
-`Duration: isi_duration`
+`Duration: 120 min`
 
-`Maker:	isi_maker`
+`Maker:	S1 NO.1 STYLE`
