@@ -14,6 +14,6 @@ ___
 
 `Release date: 2023-07-04`
 
-`Duration: 62 min`
+`Duration: 61 min`
 
 `Maker:	Caribbeancom`
