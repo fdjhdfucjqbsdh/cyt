@@ -2,10 +2,11 @@
   {{- partial "profile.html" }}
 <section class="tags">
 {{ range (.Paginate .Pages).Pages }}
+  {{- $paginator := .Paginate $pages }}
   <section class="article-list">
-    {{ range $.Paginate.Pages }}
+    {{ range $.paginator.Pages }}
       {{ .Render "summary"}}
-    {{ end }}
+    {{end }}
   </section>
 
   {{- if gt $paginator.TotalPages 1 }}
