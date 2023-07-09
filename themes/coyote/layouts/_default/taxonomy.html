@@ -1,16 +1,6 @@
 {{- define "main" }}
 <section class="tags">
-  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-  {{- $paginator := .Paginate $pages }}
-
-  <section class="tag-list">
-    {{ range $paginator.Pages }}
-      {{ .Render "summary"}}
-    {{ end }}
-  </section>
-
-  {{- if gt $paginator.TotalPages 1 }}
-    {{- partial "pagination.html" . -}}
-  {{- end }}
-</section>
-{{- end }}
+{{ range (.Paginate .Pages).Pages }}
+  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+{{ end }}
+{{ template "_internal/pagination.html" . }}
