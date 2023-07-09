@@ -28,3 +28,7 @@
 
 .header .nav .sub-menu a:hover{color: #fff}
 .header .header-menu-trigger, .header .header-search-trigger{display: none;position: absolute;top:10px;}
+
+a[aria-current] {
+ color: red;
+}
