@@ -37,3 +37,28 @@ status = 200
 [taxonomies]
    tag = "tags"
    category = "categories"
+
+[menu]
+    [[menu.nav]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+    [[menu.nav]]
+    identifier = "censored"
+    name = "Censored"
+    url = "/censored/"
+    weight = 2
+
+    [[menu.nav]]
+    identifier = "Uncensored"
+    name = "Uncensored"
+    url = "/ncensored/"
+    weight = 3
+
+    [[menu.nav]]
+    identifier = "amateur"
+    name = "Amateur"
+    url = "/amateur/"
+    weight = 4
