@@ -1,22 +1,9 @@
 {{- define "main" }}
+  {{- partial "profile.html" }}
 <section class="tags">
-
-  <div class="tag-list">
-    {{- $pages := union .RegularPages .Sections }}
-    {{ range $pages }}
-    <div class="resultItem">
-      <div class="resultItem__media" style="background-image: url({{ (print .Permalink .Params.image) | absURL }});"></div>
-      <div class="resultItem__body">
-        <h3 class="resultItem__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-        <div class="resultItem__footer">{{ .Date.Format "2006/01/02" }}</div>
-      </div>
-    </div>
-    {{ end }}
-  </div>
-  </section>
-
-  {{- if gt $paginator.TotalPages 1 }}
-    {{- partial "pagination.html" . -}}
-  {{- end }}
+{{ range (.Paginate .Pages).Pages }}
+  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+{{ end }}
+{{ template "_internal/pagination.html" . }}
 {{ end }}
 
