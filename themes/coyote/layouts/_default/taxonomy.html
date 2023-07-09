@@ -1,8 +1,7 @@
 {{- define "main" }}
 <section class="tags">
 
-{{ range (.Paginate .Pages).Pages }}
-  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{- $paginator := .Paginate $pages }}
   
   <section class="tag-list">
     {{ range $paginator.Pages }}
