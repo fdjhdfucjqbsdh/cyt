@@ -2,7 +2,7 @@
 author: j91
 title: FC2-PPV-3556241
 date: 2023-07-09T01:46:00Z
-image: "FC2-PPV-3556241.jpg"
+image: "FC2-PPV-3556241pl.jpg"
 tags: [Uncensored]
 ---
 
