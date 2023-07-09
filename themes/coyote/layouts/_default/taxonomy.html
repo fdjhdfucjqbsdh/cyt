@@ -1,7 +1,6 @@
 {{- define "main" }}
   {{- partial "profile.html" }}
-<section class="tags">
-  <section class="article-list">
+  <section class="tags">
 {{ range (.Paginate .Pages).Pages }}
       {{ .Render "summary"}}
     {{ end }}
