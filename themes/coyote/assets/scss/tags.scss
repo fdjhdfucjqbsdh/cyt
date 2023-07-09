@@ -1,4 +1,15 @@
-.tags {
+.tag-list {
+  display: grid;
+  gap: 2.4rem 1.6rem;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 3.2rem 1.6rem;
+
+  @media screen and (min-width: 768px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.tag {
   position: relative;
   display: flex;
   flex-direction: column;
