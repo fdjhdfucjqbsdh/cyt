@@ -10,6 +10,7 @@
 
     <!-- Code that all your templates share, like a header -->
     {{- partial "header.html" . -}}
+    {{ partial "navbar.html" . }}
     <div class="container">
       <main class="main">
         {{ block "main" . }}
