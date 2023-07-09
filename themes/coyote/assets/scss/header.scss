@@ -15,8 +15,14 @@
   }
 }
 
-body {
-  font-family: arial;
+.headerNav {
+  &__items {
+    list-style: none;
+
+    > li {
+      font-size: 1.4rem;
+    }
+  }
 }
 
 .header .nav{display: block;width: 100%;}
