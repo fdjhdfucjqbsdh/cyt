@@ -1,23 +1,14 @@
 {{- define "main" }}
   {{- partial "profile.html" }}
 <section class="tags">
-    {{- $pages := union .RegularPages .Sections }}
-    {{ range $pages }}
-<article class="tag-list">
-  <a class="article__inner" href="{{ .Permalink }}">
-    <div class="article__header">
-      {{ $image := .Resources.GetMatch .Params.image }}
-      <img class="article__image" src="{{ $image.RelPermalink }}">
-    </div>
-    <div class="article__text">
-      <h3 class="article__title">{{ .Title }}</h3>
-    </div>
-  </a>
-  <footer class="article__footer">
-    <time datetime="{{ .Date }}">{{ .Date.Format "2006/01/02" }}</time>
-  </footer>
-</article>
-</section>
-{{ end }}
-{{ template "_internal/pagination.html" . }}
+{{ range (.Paginate .Pages).Pages }}
+  <section class="article-list">
+    {{ range $.Paginate.Pages }}
+      {{ .Render "summary"}}
+    {{ end }}
+  </section>
+
+  {{- if gt $paginator.TotalPages 1 }}
+    {{- partial "pagination.html" . -}}
+  {{- end }}
 {{ end }}
