@@ -1,8 +1,9 @@
 {{- define "main" }}
+  {{- partial "profile.html" }}
 <section class="tags">
 {{ range (.Paginate .Pages).Pages }}
   <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+</section>
 {{ end }}
 {{ template "_internal/pagination.html" . }}
 {{ end }}
-
