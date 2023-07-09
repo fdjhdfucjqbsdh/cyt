@@ -31,4 +31,4 @@
         <h3 class="resultItem__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         <div class="resultItem__footer">{{ .Date.Format "2006/01/02" }}</div>
 {{ end }}
-    {{- partial "summary.html" . -}}
+    {{- partial "pagination.html" . -}}
