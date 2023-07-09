@@ -183,3 +183,47 @@ body.dark-mode pre,body.dark-mode pre span,body.dark-mode code{background:#000!i
 .dark-mode .pagination > li.active > a:hover{color:#800;background:none}
 .dark-mode .pagination > .disabled > span,.dark-mode .pagination > .disabled > a,.dark-mode .pagination > .disabled > a:hover,.dark-mode .pagination > .disabled > a:focus{color:#999;cursor:not-allowed;background-color:transparent;border-color:#ddd}
 .dark-mode .pagination > li > a:hover{color:#800;background:none}
+
+
+// Generate series of `.navbar-expand-*` responsive classes for configuring
+// where your navbar collapses.
+.navbar-expand {
+  @each $breakpoint in map-keys($grid-breakpoints) {
+    $next: breakpoint-next($breakpoint, $grid-breakpoints);
+    $infix: breakpoint-infix($next, $grid-breakpoints);
+
+    // stylelint-disable-next-line scss/selector-no-union-class-name
+    &#{$infix} {
+      @include media-breakpoint-up($next) {
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+
+        .navbar-nav {
+          flex-direction: row;
+
+          .dropdown-menu {
+            position: absolute;
+          }
+
+          .nav-link {
+            padding-right: $navbar-nav-link-padding-x;
+            padding-left: $navbar-nav-link-padding-x;
+          }
+        }
+
+        .navbar-nav-scroll {
+          overflow: visible;
+        }
+
+        .navbar-collapse {
+          display: flex !important; // stylelint-disable-line declaration-no-important
+          flex-basis: auto;
+        }
+
+        .navbar-toggler {
+          display: none;
+        }
+      }
+    }
+  }
+}
