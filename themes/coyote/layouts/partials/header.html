@@ -1,7 +1,19 @@
 <header class="header">
-  <div class="header__title">
-    <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
+<!-- Simulate a smartphone / tablet look -->
+<div class="mobile-container">
+
+<!-- Top Navigation Menu -->
+<div class="topnav">
+  <a href="/" class="active">Home</a>
+  <div id="myLinks">
+    <a href="#news">Censored</a>
+    <a href="#contact">Unensored</a>
+    <a href="#about">Amateur</a>
   </div>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
 <div class="headerNav">
     <ul class="headerNav__items">
       <li>
