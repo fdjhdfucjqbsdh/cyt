@@ -1,6 +1,5 @@
 {{- define "main" }}
 <section class="tags">
-<h1>Uncensored</h1>
   {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $paginator := .Paginate $pages }}
 
