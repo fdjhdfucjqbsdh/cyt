@@ -26,9 +26,17 @@
 
 
 {{ range (.Paginate .Pages).Pages }}
-      <div class="resultItem__media" style="background-image: url({{ (print .Permalink .Params.image) | absURL }});"></div>
-      <div class="resultItem__body">
-        <h3 class="resultItem__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-        <div class="resultItem__footer">{{ .Date.Format "2006/01/02" }}</div>
+  <a class="article__inner" href="{{ .Permalink }}">
+    <div class="article__header">
+      {{ $image := .Resources.GetMatch .Params.image }}
+      <img class="article__image" src="{{ $image.RelPermalink }}">
+    </div>
+    <div class="article__text">
+      <h3 class="article__title">{{ .Title }}</h3>
+    </div>
+  </a>
+  <footer class="article__footer">
+    <time datetime="{{ .Date }}">{{ .Date.Format "2006/01/02" }}</time>
+  </footer>
 {{ end }}
     {{- partial "pagination.html" . -}}
