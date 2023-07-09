@@ -1,7 +1,14 @@
 {{- define "main" }}
 <section class="tags">
-{{ range (.Paginate .Pages).Pages }}
-  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  <section class="tag-list">
+    {{ range $paginator.Pages }}
+      {{ .Render "summary"}}
+    {{ end }}
+  </section>
+
+  {{- if gt $paginator.TotalPages 1 }}
+    {{- partial "pagination.html" . -}}
+  {{- end }}
 {{ end }}
 {{ template "_internal/pagination.html" . }}
 {{ end }}
