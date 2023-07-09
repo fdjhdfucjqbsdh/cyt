@@ -1,5 +1,29 @@
-{{ define "main" }}
-  {{- partial "profile.html" }}
+<meta name="juicyads-site-verification" content="8dfa463f90d0a124081985a0e09b5df5">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<link rel="icon" href="https://raw.githubusercontent.com/javsubs91/javsubs91/main/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet" type="text/css" />
+
+<!-- Add other content here -->
+
+  {{ if .HasShortcode "github_button" }}
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  {{end}}
+
+{{ template "_internal/google_analytics.html" . }}
+
+<title>{{ if not .IsHome }}{{ if .Title }}{{ .Title }} - {{ end }}{{ end }}{{ .Site.Title }}</title>
+
+{{ $sass := resources.Get "scss/style.scss" }}
+{{ $style := $sass | resources.ToCSS | minify | resources.Fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+{{- if (eq .Layout "search") }}
+  {{ $fusejs := resources.Get "js/fuse.basic.min.js" }}
+  {{ $search := resources.Get "js/search.js" }}
+  {{ $js := slice $fusejs $search | resources.Concat "js/bundle.js" | resources.Fingerprint "sha512" }}
+  <script defer type="text/javascript" src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+{{- end }}
 
 {{ range (.Paginate .Pages).Pages }}
   <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
