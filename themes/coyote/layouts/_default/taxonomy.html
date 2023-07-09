@@ -1,35 +1,25 @@
-<meta name="juicyads-site-verification" content="8dfa463f90d0a124081985a0e09b5df5">
-<meta name='viewport' content='width=device-width, initial-scale=1'>
-<link rel="icon" href="https://raw.githubusercontent.com/javsubs91/javsubs91/main/favicon.ico">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
-<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet" type="text/css" />
+{{- define "main" }}
+<section class="tags">
+  <div class="tags__header">
+    <h2 class="tags__title">{{ .Title }}</h2>
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="20" height="20" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+      <circle cx="8.5" cy="8.5" r="1" fill="currentColor"></circle>
+      <path d="M4 7v3.859c0 .537 .213 1.052 .593 1.432l8.116 8.116a2.025 2.025 0 0 0 2.864 0l4.834 -4.834a2.025 2.025 0 0 0 0 -2.864l-8.117 -8.116a2.025 2.025 0 0 0 -1.431 -.593h-3.859a3 3 0 0 0 -3 3z"></path>
+   </svg>
+  </div>
 
-<!-- Add other content here -->
-
-  {{ if .HasShortcode "github_button" }}
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
-  {{end}}
-
-{{ template "_internal/google_analytics.html" . }}
-
-<title>{{ if not .IsHome }}{{ if .Title }}{{ .Title }} - {{ end }}{{ end }}{{ .Site.Title }}</title>
-
-{{ $sass := resources.Get "scss/style.scss" }}
-{{ $style := $sass | resources.ToCSS | minify | resources.Fingerprint "sha256" }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}">
-
-{{- if (eq .Layout "search") }}
-  {{ $fusejs := resources.Get "js/fuse.basic.min.js" }}
-  {{ $search := resources.Get "js/search.js" }}
-  {{ $js := slice $fusejs $search | resources.Concat "js/bundle.js" | resources.Fingerprint "sha512" }}
-  <script defer type="text/javascript" src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
-{{- end }}
-
-
-{{ range (.Paginate .Pages).Pages }}
+  <div class="results">
+    {{- $pages := union .RegularPages .Sections }}
+    {{ range $pages }}
+    <div class="resultItem">
       <div class="resultItem__media" style="background-image: url({{ (print .Permalink .Params.image) | absURL }});"></div>
       <div class="resultItem__body">
         <h3 class="resultItem__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         <div class="resultItem__footer">{{ .Date.Format "2006/01/02" }}</div>
-{{ end }}
-    {{- partial "pagination.html" . -}}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{- end }}
