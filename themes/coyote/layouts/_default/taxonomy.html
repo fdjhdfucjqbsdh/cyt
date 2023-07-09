@@ -25,7 +25,6 @@
   <script defer type="text/javascript" src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 {{- end }}
 
-    {{- partial "head.html" . -}}   
 
 {{ range (.Paginate .Pages).Pages }}
   <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
