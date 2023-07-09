@@ -1,7 +1,11 @@
 {{- define "main" }}
   {{- partial "profile.html" }}
   <section class="tags">
-{{ range (.Paginate .Pages).Pages }}
+  {{- $pages := union .RegularPages .Sections }}
+  {{- $paginator := .Paginate $pages }}
+
+  <section class="article-list">
+    {{ range $paginator.Pages }}
       {{ .Render "summary"}}
     {{ end }}
   </section>
