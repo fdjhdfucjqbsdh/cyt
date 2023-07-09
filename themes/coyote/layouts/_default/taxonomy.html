@@ -1,18 +1,16 @@
 {{- define "main" }}
 <section class="tags">
-  <a class="tags__inner" href="{{ .Permalink }}">
-    <div class="tags__header">
+  <a class="article__inner" href="{{ .Permalink }}">
+    <div class="article__header">
       {{ $image := .Resources.GetMatch .Params.image }}
-      <img class="tags__image" src="{{ $image.RelPermalink }}">
+      <img class="article__image" src="{{ $image.RelPermalink }}">
     </div>
-    <div class="tags__text">
-      <h3 class="tags__title">{{ .Title }}</h3>
+    <div class="article__text">
+      <h3 class="article__title">{{ .Title }}</h3>
     </div>
   </a>
-  <footer class="tags__footer">
+  <footer class="article__footer">
     <time datetime="{{ .Date }}">{{ .Date.Format "2006/01/02" }}</time>
   </footer>
-</section>{{ end }}
-    {{- partial "pagination.html" . -}}
 </section>
 {{- end }}
