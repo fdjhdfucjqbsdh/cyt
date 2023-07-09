@@ -1,3 +1,4 @@
+{{- define "main" }}
 <section class="tags">
 {{ range (.Paginate .Pages).Pages }}
       <div class="resultItem__media" style="background-image: url({{ (print .Permalink .Params.image) | absURL }});"></div>
