@@ -1,8 +1,9 @@
 <header class="header">
-  <div class="header__title">
-    <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
-  </div>
-</div>
+<ul id="nav">
+    {{ range .Site.Menus.nav }}
+    <li><a href=" {{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
+</ul>
 <div class="headerNav">
     <ul class="headerNav__items">
       <li>
