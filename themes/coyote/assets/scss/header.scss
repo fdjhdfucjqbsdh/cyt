@@ -15,20 +15,69 @@
   }
 }
 
-.header .nav{display: block;width: 100%;}
-.header .nav > li{padding:10px;float: left;list-style: none;position: relative;}
-.header .nav > li:first-child{padding-left:0;}
-.header .nav > li > a{display: inline-block;line-height: 30px;padding:0 8px;border-radius: 3px;}
-.header .nav > li > a:hover, .header .nav > li.current-menu-item > a, .header .nav > li.current-menu-parent > a{color: #fff;background: #d8201d;}
-.header .nav .sub-menu{position:absolute;top:110%;left:auto;background:#000000!important;font-size:13px;padding:6px 10px;margin:20px 0 0;box-shadow:0 0 10px rgba(0,0,0,0.1);line-height:32px;width:100%;border-radius:2px;opacity:0;visibility:hidden;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;transition:all 0.2s ease-in-out;z-index:2009}
-.header .nav .sub-menu li{background:#222222;border:1px solid #333333;padding: 0px 4px;margin-top: 4px;border-radius: 5px;}
-.header .nav .sub-menu:before{content: "";width:0;height:0;border-width:5px;border-style:solid;border-color:transparent transparent #000000 transparent;position: absolute;top: -10px;left: 24px;}
-.header .nav .sub-menu .sub-menu{left:120px;top:10px;z-index:2009}
-.header .nav li:hover > .sub-menu{opacity:1;visibility:visible;margin:0}
+body {
+  font-family: arial;
+}
 
-.header .nav .sub-menu a:hover{color: #fff}
-.header .header-menu-trigger, .header .header-search-trigger{display: none;position: absolute;top:10px;}
-
-a[aria-current] {
- color: red;
+.app-nav {
+  background: #eee;
+  border-top: 1px solid #bbb;
+  border-bottom: 1px solid #bbb;
+  text-align: center;
+  
+  ul {
+    display: flex;
+    flex-flow: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    border-right: 1px solid #bbb;
+    flex-grow: 1;
+    
+    &:first-child {
+      border-left: 1px solid #bbb;
+    }
+  }
+  
+  a {
+    color: #222;
+    display: block;
+    padding: .5em 1em;
+    position: relative;
+    text-decoration: none;
+    
+    &:after {
+      background: #000;
+      content: '';
+      left: 0;
+      right: 0;
+      height: 0px;
+      bottom: 0;
+      position: absolute;
+      transition: height .2s ease-in-out;
+    }
+    
+    &:hover,
+    &:focus {
+      &:after {
+        height: 4px;
+      }
+    }
+    
+    &.is-active,
+    &[aria-current="page"] {
+      background: #333;
+      color: #fff;
+      
+      &:hover,
+      &:focus {
+        &:after {
+          background: #fff; 
+        }
+      }
+    }
+  }
 }
