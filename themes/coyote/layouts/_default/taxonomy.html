@@ -3,7 +3,7 @@
   {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $paginator := .Paginate $pages }}
 
-  <section class="article-list">
+  <section class="tag-list">
     {{ range $paginator.Pages }}
       {{ .Render "summary"}}
     {{ end }}
