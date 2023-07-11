@@ -4,7 +4,7 @@
 {{ $image := .Resources.GetMatch .Params.image }}
 {{ $small := $src.Resize "360x q85 Box" }}
 
-<img class="post-image" alt="{{ .Title }}" src="{{ $small.RelPermalink }}" >
+<img class="article__image" src="{{ $small.RelPermalink }}">
     </div>
     <div class="article__text">
       <h3 class="article__title">{{ .Title }}</h3>
