@@ -1,9 +1,11 @@
 <article class="article">
   <a class="article__inner" href="{{ .Permalink }}">
     <div class="article__header">
-{{ $image := .Resources.GetMatch .Params.image }}
-{{ $small := $src.Resize "360x q85 Box" }}
+{{ if .Params.images }}
 
+{{ $image := index .Params.images 0 }}
+{{ $src := resources.Get $image }}
+{{ $small := $src.Resize "360x q85 Box" }}
 <img class="article__image" src="{{ $small.RelPermalink }}">
     </div>
     <div class="article__text">
