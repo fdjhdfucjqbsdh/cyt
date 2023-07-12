@@ -5,6 +5,6 @@
 {{- $class := .Get "class" | default (.Get 1) -}}
 {{- $title := .Get "title" | default "StreamSB" }}
 <div class="video">
-    <iframe src="https://{{ $ytHost }}/embed/{{ $id }}{{ end }}{{ end }}" title="{{ $title }}"></iframe>
+    <iframe src="https://{{ $ytHost }}/embed/{{ $id }}{{ end }}" title="{{ $title }}"></iframe>
 </div>
 {{ end -}}
