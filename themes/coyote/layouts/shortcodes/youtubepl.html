@@ -4,38 +4,8 @@
 {{- $id := .Get "id" | default (.Get 0) -}}
 {{- $class := .Get "class" | default (.Get 1) -}}
 {{- $title := .Get "title" | default "StreamSB" }}
-<div class="video" data-videoid={{ $id }}>
-    <a href="https://likessb.com/e/{{ $id }}" target="_blank" rel="noreferrer nofollow">
-        <img src="https://img.youtube.com/vi/VIDEO ID/sddefault.jpg" width="WIDTH" height="HEIGHT" alt="VIDEO TITLE" loading="lazy">
-    </a>
+<div {{ with $class }}class="{{ . }}"{{ else }}style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"{{ end }}>
+  <iframe src="https://{{ $ytHost }}/embed/{{ $id }}{{ with .Get "autoplay" }}{{ if eq . "true" }}?autoplay=1{{ end }}{{ end }}" {{ if not $class }}style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" {{ end }}allowfullscreen title="{{ $title }}"></iframe>
 </div>
-<script>
-var videos = document.querySelectorAll('.video'); // select all .video elements
 
-for (var i = 0; i < videos.length; i++) { // for each
-    videos[i].addEventListener('click', function() { // on click
-        var iframe = document.createElement('iframe'); // create <iframe>
-        iframe.setAttribute('allowfullscreen', ''); // set attributes
-        iframe.setAttribute('allow', 'autoplay; fullscreen');
-        iframe.setAttribute('src', 'https://likessb.com/e/{{ $id }}'); // populate video ID
-        this.innerHTML = ''; // remove existing HTML (<a> & <img>)
-        this.appendChild(iframe); // replace with <iframe>
-        event.preventDefault(); // prevent link action
-    });
-};
-</script>
-
-<style>
-.video {padding-bottom:56.25%;position:relative} /*--- bottom (or top) padding sets aspect ratio ---*/
-
-    /*--- placeholder link & <iframe> (when loaded) ---*/
-    .video a, .video iframe {display:block;width:100%;height:100%;position:absolute}
-        .video iframe {border:0}
-
-        /*--- optional custom play button ---*/
-        .video a::before {}
-
-        /*--- placeholder/preview image ---*/
-        .video img {object-fit:cover;height:100%;width:100%}
-</style>
 {{ end -}}
