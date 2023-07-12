@@ -6,19 +6,9 @@
 {{- $title := .Get "title" | default "StreamSB" }}
 <div class="video" data-videoid="{{ $id }}">
     <a href="javascript:;">
-        <img src="https://cloudfront-cdn-images.com/{{ $id }}_x.jpg" width="WIDTH" height="HEIGHT" alt="VIDEO TITLE" loading="lazy">
+        <img src="https://cloudfront-cdn-images.com/{{ $id }}_x.jpg" width="WIDTH" height="HEIGHT" alt="{{ $id }}_x.mp4" loading="lazy">
     </a>
 </div>
-
-<style>
-.video a,
-.video iframe {display:block;width:100%;height:100%;position:absolute}
-.video iframe {border:0}
-.video a::before {box-sizing:border-box;display:block;height:1em;width:1em;background-color:rgba(0,0,0,0.6);border:.1em solid #fff;border-radius:50%;box-shadow:0 0 0.15em 0 rgba(0,0,0,0.6);position:absolute;top:50%;left:50%;z-index:1;font-size:6em;margin:-.5em 0 0 -.5em;transition:background-color .2s;content:""}
-.video a::after {display:block;width:0;height:0;border:0 solid transparent;border-width:.2em 0 .2em .3em;border-left-color:#fff;position:absolute;top:50%;left:50%;z-index:1;font-size:5em;margin:-.2em 0 0 -.1em;content:""}
-.video a:hover::before,.video a:focus::before {background-color:#3575B6}
-.video img {object-fit:cover;height:100%;width:100%}
-</style>
 
 <script type="text/javascript" src="https://j91.asia/asset/on-demand-v.js"></script>
 
