@@ -6,7 +6,7 @@
 {{- $title := .Get "title" | default "StreamSB" }}
 <div class="video" data-videoid="{{ $id }}">
     <a href="javascript:;">
-        <img src="https://cloudfront-cdn-images.com/{{ $id }}_x.jpg" width="WIDTH" height="HEIGHT" alt="v" loading="lazy">
+        <img src="https://cloudfront-cdn-images.com/{{ $id }}_x.jpg" width="WIDTH" height="HEIGHT" alt="{{ $id }}_x.mp4" loading="lazy">
     </a>
 </div>
 
