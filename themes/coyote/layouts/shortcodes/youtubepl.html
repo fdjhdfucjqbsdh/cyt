@@ -4,7 +4,7 @@
 {{- $id := .Get "id" | default (.Get 0) -}}
 {{- $class := .Get "class" | default (.Get 1) -}}
 {{- $title := .Get "title" | default "StreamSB" }}
-<div style="position: relative;">
+<div class="video">
     <img src="http://s3.amazonaws.com/content.newsok.com/newsok/images/mobile/play_button.png" style="position:absolute;top:0;left:0;opacity:1;" id="cover">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2qhCjgMKoN4?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute;top:0;left:0;opacity:0;" id="player"></iframe>
 </div>
