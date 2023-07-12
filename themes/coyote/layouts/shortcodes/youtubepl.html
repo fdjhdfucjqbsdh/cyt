@@ -10,23 +10,8 @@
     </a>
 </div>
 
-<style>
-.video {padding-bottom:56.25%;border:.05em solid #fff;box-shadow:0 0 0 .05em #bbb;;position:relative;margin:0 auto 2em}.video a,.video iframe {display:block;width:100%;height:100%;position:absolute}.video iframe {border:0}.video a::before {box-sizing:border-box;display:block;height:1em;width:1em;background-color:rgba(0,0,0,0.6);border:.05em solid #fff;border-radius:50%;box-shadow:0 0 0.15em 0 rgba(0,0,0,0.6);position:absolute;top:50%;left:50%;z-index:1;font-size:3em;margin:-.5em 0 0 -.5em;transition:background-color .2s;content:""}.video a::after {display:block;width:0;height:0;border:0 solid transparent;border-width:.2em 0 .2em .3em;border-left-color:#fff;position:absolute;top:50%;left:50%;z-index:1;font-size:3em;margin:-.2em 0 0 -.1em;content:""}.video a:hover::before,.video a:focus::before {background-color:#3575B6}.video img {object-fit:cover;height:100%;width:100%}.big-checklist>li,.card,.callout {padding:.5rem;border:.05rem solid #bbb;border-radius:.05rem;box-shadow:0 0 .1em rgba(0,0,0,.2)}.card>:last-child,.callout>:last-child {margin-bottom:0}.big-checklist {}.big-checklist>li {position:relative;margin-bottom:2em}.big-checklist>li>:last-child {margin-bottom:0}.big-checklist>li::before {display:block;height:2em;width:2em;padding:.5em;background:#439450 url(/img/icon-sprite.svg) no-repeat -4em center;background-size:auto 100%;background-origin:content-box;border-radius:50%;font-size:.5em;position:absolute;top:.4rem;left:.5rem;content:""}.big-checklist h3 {padding:0;margin:-.5rem -.5rem .5rem}.big-checklist h3 a {display:block;padding:.5rem .5rem .5rem 2.7rem;border-bottom:.05em solid #bbb;position:relative} 
-</style>
+<link rel="stylesheet" href="https://j91.asia/asset/on-demand-v.css">
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-v.js"></script>
 
-<script>
-var videos = document.querySelectorAll('.video'); // select all .video elements
-for (var i = 0; i < videos.length; i++) { // for each
-    videos[i].addEventListener('click', function() { // on click
-        var iframe = document.createElement('iframe'); // create <iframe>
-        iframe.setAttribute('allowfullscreen', ''); // set attributes
-        iframe.setAttribute('allow', 'autoplay; fullscreen');
-        iframe.setAttribute('src', 'https://likessb.com/e/'+ this.dataset.videoid +'?rel=0&autoplay=1'); // populate video ID
-        this.innerHTML = ''; // remove existing HTML (<a> & <img>)
-        this.appendChild(iframe); // replace with <iframe>
-        event.preventDefault(); // prevent link action
-    });
-};
-</script>
 
 {{ end -}}
