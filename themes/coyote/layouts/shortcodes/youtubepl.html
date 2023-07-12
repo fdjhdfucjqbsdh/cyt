@@ -4,7 +4,7 @@
 {{- $id := .Get "id" | default (.Get 0) -}}
 {{- $class := .Get "class" | default (.Get 1) -}}
 {{- $title := .Get "title" | default "StreamSB" }}
-<div class="video"> data-videoid="$id">
+<div class="video" data-videoid="{{ $id }}">
     <a href="https://{{ $ytHost }}/embed/{{ $id }}" target="_blank" rel="noreferrer nofollow">
         <img src="https://img.youtube.com/vi/VIDEO%20ID/sddefault.jpg" width="WIDTH" height="HEIGHT" alt="{{ $title }}" loading="lazy">
     </a>
