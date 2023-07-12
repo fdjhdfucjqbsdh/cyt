@@ -2,7 +2,7 @@
 {{- if not $pc.Disable -}}
 {{- $ytHost := cond $pc.PrivacyEnhanced  "streamsb.net" "likessb.com" -}}
 {{- $id := .Get "id" | default (.Get 0) -}}
-{{- $class := .Get "class" | default (.video) -}}
+{{- $class := .Get "class" | default (.Get 1) -}}
 {{- $title := .Get "title" | default "StreamSB" }}
 <div class="video"> data-videoid="$id">
     <a href="https://{{ $ytHost }}/embed/{{ $id }}" target="_blank" rel="noreferrer nofollow">
