@@ -1,4 +1,4 @@
-&nbsp; &nbsp; &nbsp;
+<center>
 {{ $_hugo_config := `{ "version": 1 }` }}
 <a {{ with .Get "href"}} href="{{.}}" target="_blank" {{ end }} class="bbtn bbtn-default">
   {{ $icon := .Get "icon" }}
@@ -13,3 +13,4 @@
   <i class="{{$icon}}"></i>
   {{ end }}
 </a>
+</center>
