@@ -9,8 +9,9 @@
         <img src="https://img.youtube.com/vi/VIDEO ID/sddefault.jpg" width="WIDTH" height="HEIGHT" alt="VIDEO TITLE" loading="lazy">
     </a>
 </div>
-var videos = document.querySelectorAll('.video'); // select all .video elements
 <script>
+var videos = document.querySelectorAll('.video'); // select all .video elements
+
 for (var i = 0; i < videos.length; i++) { // for each
     videos[i].addEventListener('click', function() { // on click
         var iframe = document.createElement('iframe'); // create <iframe>
