@@ -5,7 +5,7 @@
 {{- $class := .Get "class" | default (.Get 1) -}}
 {{- $title := .Get "title" | default "StreamSB" }}
 <div class="video"
-    <a href="https://{{ $ytHost }}/embed/{{ $id }}{{ with .Get "autoplay" }}{{ if eq . "true" }}?autoplay=1{{ end }}{{ end }}" target="_blank" rel="noreferrer nofollow">
+    <a href="https://{{ $ytHost }}/embed/{{ $id }}{{ with .Get "autoplay" }}{{ if eq . "true" }}?autoplay=1{{ end }}{{ end }}">
         <img src="https://img.youtube.com/vi/VIDEO ID/sddefault.jpg" width="WIDTH" height="HEIGHT" alt="VIDEO TITLE" loading="lazy">
     </a>
 </div>
