@@ -22,3 +22,17 @@ outputs:
         - HTML
         - JSON
 
+taxonomies:
+  tag: "tags"
+  category: "maker"
+  series: "actress"
+
+related:
+  includeNewer: false
+  indices:
+  - name: keywords
+    weight: 100
+  - name: date
+    weight: 10
+  threshold: 80
+  toLower: false
