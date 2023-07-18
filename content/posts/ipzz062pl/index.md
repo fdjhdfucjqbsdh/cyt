@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) IPZZ-062
+title: IPZZ-062 Beautiful Private Tutor Hikari's Kiss Lecture Individual Lesson Hikari Azusa
 date: 2023-07-07
 image: "ipzz062pl.jpg"
+tags: [Censored, Solowork, Older Sister, Big Tits, Slut, Digital Mosaic, Kiss]
+maker: [IDEA POCKET]
+actress: [Azusa Hikari]
 ---
 
-### Beautiful Private Tutor Hikari's Kiss Lecture Individual Lesson Hikari Azusa
-___
 
-{{< youtubepl xficfl5a67qp >}}
-___
+{{< youtubepl QAQBaP6OyAI0e1K >}}
+###
 
-{{% button href="https://streamsb.net/d/xficfl5a67qp" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/QAQBaP6OyAI0e1K/ipzz-062.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	IDEA POCKET`

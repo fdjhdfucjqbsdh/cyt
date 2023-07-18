@@ -3,20 +3,14 @@ author: j91
 title: Caribbeancom 071723-001 No Cum Patience Championship Mai Amao
 date: 2023-07-17T00:45:00Z
 image: "071723-001-carib.jpg"
-tags: [Uncensored]
+tags: [Uncensored, Breasts, Creampie, Cumshot, Sexy Legs, Shaved]
+maker: [Caribbeancom]
+actress: [Mai Amao]
 ---
-___
 
-{{< youtubepl f3t0avma6pw0 >}}
-___
 
-{{% button href="https://likessb.com/d/f3t0avma6pw0" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl OW8LbWeXzOFZ4gl >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/OW8LbWeXzOFZ4gl/071723-001-carib.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Uncensored`

@@ -3,14 +3,15 @@
 {{- $ytHost := cond $pc.PrivacyEnhanced  "streamsb.net" "likessb.com" -}}
 {{- $id := .Get "id" | default (.Get 0) -}}
 {{- $class := .Get "class" | default (.Get 1) -}}
-{{- $title := .Get "title" | default "StreamSB" }}
+{{- $title := .Get "title" | default "Streamtape" }}
+
 <div class="video" data-videoid="{{ $id }}">
     <a href="javascript:;">
-        <img src="https://cloudfront-cdn-images.com/{{ $id }}_x.jpg" width="WIDTH" height="HEIGHT" alt="{{ $id }}_x.mp4" loading="lazy">
+        <img src="https://j91.asia/asset/cover.jpg" width="WIDTH" height="HEIGHT" alt="{{ $id }}_kl4jch.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-v.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 
 {{ end -}}

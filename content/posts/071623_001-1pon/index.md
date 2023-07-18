@@ -3,20 +3,14 @@ author: j91
 title: 1Pondo 071623_001 Sex Personal Trainer Megu Memezawa
 date: 2023-07-17T00:45:00Z
 image: "071623_001-1pon.jpg"
-tags: [Uncensored]
+tags: [Uncensored, 69, Blowjob, Breasts, Cumshot, Model, Nice Ass, Sexy Legs, Shaved, Slender]
+maker: [1pondo]
+actress: [Megu Memezawa]
 ---
-___
 
-{{< youtubepl k27claw33lce >}}
-___
 
-{{% button href="https://likessb.com/d/k27claw33lce" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl DAAR0mVw9VIAze >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/DAAR0mVw9VIAze/071623_001-1pon.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Uncensored`

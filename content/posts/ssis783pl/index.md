@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) SSIS-783
+title: SSIS-783 When My Beautiful Boss Who Everyone Is Looking Back At Gets Drunk, She's A Lonely Bitch Who Wants My Junior's Cock Riri Nanatsumori
 date: 2023-07-07
 image: "ssis783pl.jpg"
+tags: [Censored, OL, Solowork, Nasty, Hardcore, Drama, Risky Mosaic, Kiss]
+maker: [S1 NO.1 STYLE]
+actress: [Nanatsumori Riri]
 ---
 
-### When My Beautiful Boss Who Everyone Is Looking Back At Gets Drunk, She's A Lonely Bitch Who Wants My Junior's Cock Riri Nanatsumori
-___
 
-{{< youtubepl arg290xeuaui >}}
-___
+{{< youtubepl 1xdKxmZY0pfeeGB >}}
+###
 
-{{% button href="https://streamsb.net/d/arg290xeuaui" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/1xdKxmZY0pfeeGB/ssis-783.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 110 min`
-
-`Maker:	S1 NO.1 STYLE`

@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) SSIS-759
+title: SSIS-759 The Crotch And Thigh Of A High-Leg Swimsuit That Drives Students To Les-Fu Magic... Erotic Legs Instructor Who Was Too Enchanted Fallen Ichika Hoshimiya
 date: 2023-07-07
 image: "ssis759pl.jpg"
+tags: [Censored, Solowork, Slender, Swimsuit, Leg Fetish,Risky Mosaic]
+maker: [S1 NO.1 STYLE]
+actress: [Hoshimiya Ichika]
 ---
 
-### The Crotch And Thigh Of A High-Leg Swimsuit That Drives Students To Les-Fu Magic... Erotic Legs Instructor Who Was Too Enchanted Fallen Ichika Hoshimiya
-___
 
-{{< youtubepl x7e1nkxkdfw2 >}}
-___
+{{< youtubepl 3Jxbjkd1Rxcdw6w >}}
+###
 
-{{% button href="https://streamsb.net/d/x7e1nkxkdfw2" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/3Jxbjkd1Rxcdw6w/ssis-759.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	S1 NO.1 STYLE`

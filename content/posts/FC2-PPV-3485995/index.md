@@ -4,19 +4,13 @@ title: FC2PPV 3485995 [Personal Shooting] Ikemen Shaved Pussy Ami-Chan And Raw 3
 date: 2023-07-17T00:46:00Z
 image: "FC2-PPV-3485995.jpg"
 tags: [Uncensored]
+maker: [FC2PPV]
+actress: []
 ---
-___
 
-{{< youtubepl le42v2h91v3c >}}
-___
 
-{{% button href="https://likessb.com/d/le42v2h91v3c" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl QerOxaLQm3S0Xe1 >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/QerOxaLQm3S0Xe1/FC2PPV_3485995.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Uncensored`

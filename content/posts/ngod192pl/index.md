@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) NGOD-192
+title: NGOD-192  A Business Report Of A Beautiful And Busty Boss's Wife Who Takes Care Of Her Husband During Recuperation And A Secret Kiss Affair With Her Boss. Mary Tachibana
 date: 2023-07-07
 image: "ngod192pl.jpg"
+tags: [Censored, Big tits, Cuckold, Hardcore, Kiss, Married Woman, Nasty, Solowork]
+maker: [JET Eizou]
+actress: [Tachibana Mary]
 ---
 
-###  A Business Report Of A Beautiful And Busty Boss's Wife Who Takes Care Of Her Husband During Recuperation And A Secret Kiss Affair With Her Boss. Mary Tachibana
-___
 
-{{< youtubepl nw9umh7hu4mg >}}
-___
+{{< youtubepl 86aGxlmprLc6gW >}}
+###
 
-{{% button href="https://streamsb.net/d/nw9umh7hu4mg" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/86aGxlmprLc6gW/ngod-192.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	JET Eizou`

@@ -1,24 +1,16 @@
 ---
 author: j91
-title: NSFS-201
+title: NSFS-201  Intense Jealousy Rich Sex Best Vol.3
 date: 2023-07-08T03:15:00Z
 image: "nsfs201pl.jpg"
-tags: [censored]
+tags: [Censored, 4HR+, Affair, Best, breasts, Bride, Drama, Omnibus, Young wife]
+maker: [Nagae Style]
+actress: [Koume Ena, Sachiko]
 ---
 
-###  Intense Jealousy Rich Sex Best Vol.3
-___
 
-{{< youtubepl z90wz4r9n3k7 >}}
-___
+{{< youtubepl yAeWLR8vBQs1WZO >}}
+###
 
-{{% button href="https://streamsb.net/d/z90wz4r9n3k7" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/yAeWLR8vBQs1WZO/nsfs-201.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-08`
-
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

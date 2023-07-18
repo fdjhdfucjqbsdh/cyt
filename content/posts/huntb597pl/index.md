@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) HUNTB-597
+title: HUNTB-597 Gaming Harem Live-action Version
 date: 2023-07-07
 image: "huntb597pl.jpg"
+tags: [Censored, Big tits, Creampie, Female College Student, Older sister, Original Collaboration]
+maker: [Hunter]
+actress: [Momonaga Sarina, Satsuki Mei, Yoshine Yuria]
 ---
 
-### Gaming Harem Live-action Version
-___
 
-{{< youtubepl h263jknnrox6 >}}
-___
+{{< youtubepl zlX6JXmlg9CYD2l >}}
+###
 
-{{% button href="https://streamsb.net/d/h263jknnrox6" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/zlX6JXmlg9CYD2l/huntb-597.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 150 min`
-
-`Maker:	Hunter`

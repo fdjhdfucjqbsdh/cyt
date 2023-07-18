@@ -3,17 +3,14 @@ author: j91.asia
 title: JUFE-483 Debut 4th Anniversary Work! Hard Bondage & SM Lifted! 3 Hole Penetration Fuck That Busty Secretary Falls Masochistic
 date: 2023-06-30
 image: "jufe483pl.jpg"
+tags: [Censored, SM, Anal, Creampie, Solowork, Big Tits, Shibari]
+maker: [Fitch]
+actress: [Yoshine Yuria]
 ---
 
 
-{{< youtubepl kxkmsxjelzw0 >}}
-___
+{{< youtubepl VdWjWwlz7eSKrOp >}}
+###
 
-{{% button href="https://streamsb.net/d/kxkmsxjelzw0" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/VdWjWwlz7eSKrOp/jufe-483.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-04`
-
-`Duration: 210 min`
-
-`Maker:	Fitch`

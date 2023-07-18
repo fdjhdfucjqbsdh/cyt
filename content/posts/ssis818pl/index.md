@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) SSIS-818
+title: SSIS-818 Rookie No.1 STYLE Mitsuha Asuha's AVDebut
 date: 2023-07-07
 image: "ssis818pl.jpg"
+tags: [Censored, Solowork, Debut Production, Beautiful Girl, Cowgirl, Facials, Tall, Risky Mosaic]
+maker: [S1 NO.1 STYLE]
+actress: [Ashitaba Mitsuha]
 ---
 
-### Rookie No.1 STYLE Mitsuha Asuha's AVDebut
-___
 
-{{< youtubepl 4nulh4kio4f1 >}}
-___
+{{< youtubepl DkQjydbZ3RCkKDx >}}
+###
 
-{{% button href="https://streamsb.net/d/4nulh4kio4f1" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/DkQjydbZ3RCkKDx/ssis-818.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 170 min`
-
-`Maker:	S1 NO.1 STYLE`

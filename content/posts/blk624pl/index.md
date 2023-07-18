@@ -3,20 +3,14 @@ author: j91
 title: BLK-624 Her Older Sister Accidentally Ingested The Aphrodisiac That She Was Supposed To Drink And Seduced Me Into A Kimeseku Creampie! Riho Fujimori
 date: 2023-07-14T00:26:00Z
 image: "blk624pl.jpg"
-tags: [censored, Kira★Kira]
+tags: [Censored, Big tits, Creampie, Cuckold, Gal, Sister, Solowork, Titty fuck]
+maker: [Kira ★ Kira]
+actress: [Fujimori Riho]
 ---
-___
 
-{{< youtubepl ydgl1bh2ao3f >}}
-___
 
-{{% button href="https://likessb.com/d/ydgl1bh2ao3f" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl dp74VQePdRUkK42 >}}
+###
 
-`Release date: 2023-07-14`
+{{% button href="https://streamtape.to/v/dp74VQePdRUkK42/blk-624.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

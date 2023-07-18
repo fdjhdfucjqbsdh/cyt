@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) IPZZ-061
+title: IPZZ-061 A Perverted Middle-Aged Teacher Thoroughly Tastes The Fresh Lips Of Her Students
 date: 2023-07-07
 image: "ipzz061pl.jpg"
+tags: [Censored, Solowork, Big Tits, Beautiful Girl, Digital Mosaic, Cuckold, Kiss]
+maker: [IDEA POCKET]
+actress: [Momonogi Kana]
 ---
 
-### A Perverted Middle-Aged Teacher Thoroughly Tastes The Fresh Lips Of Her Students
-___
 
-{{< youtubepl mgkzz1wb8b8j >}}
-___
+{{< youtubepl 6B8Wlx68Qet97O0 >}}
+###
 
-{{% button href="https://streamsb.net/d/mgkzz1wb8b8j" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/6B8Wlx68Qet97O0/ipzz-061.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	IDEA POCKET`

@@ -3,20 +3,14 @@ author: j91
 title: Caribbeancom 071623-001 Miyu Morita, Ema Kato
 date: 2023-07-17T00:45:00Z
 image: "071623-001-carib.jpg"
-tags: [Uncensored]
+tags: [Uncensored, 69, Breasts, Cumshot, Lesbian, Sexy Legs, Shaved]
+maker: [Caribbeancom]
+actress: [Miyu Morita, Ema Kato]
 ---
-___
 
-{{< youtubepl 37r5apc5voed >}}
-___
 
-{{% button href="https://likessb.com/d/37r5apc5voed" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl 4XoZ3vRgj2FKMDL >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/4XoZ3vRgj2FKMDL/071623-001-carib.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Uncensored`

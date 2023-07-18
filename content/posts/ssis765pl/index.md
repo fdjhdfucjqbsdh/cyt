@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) SSIS-765
+title: SSIS-765 Life's First Big / Orgy / Intercourse AV World No. 1 Slender Body Continues To Hit A Big Cock Ria Yamate
 date: 2023-07-07
 image: "ssis765pl.jpg"
+tags: [Censored, Solowork, Big Tits, Titty Fuck, Slender, Promiscuity, Risky Mosaic]
+maker: [S1 NO.1 STYLE]
+actress: [Yamate Ria]
 ---
 
-### Life's First Big / Orgy / Intercourse AV World No. 1 Slender Body Continues To Hit A Big Cock Ria Yamate
-___
 
-{{< youtubepl n3n6qt5c9irl >}}
-___
+{{< youtubepl OJ2yJPR1dvUZB8M >}}
+###
 
-{{% button href="https://streamsb.net/d/n3n6qt5c9irl" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/OJ2yJPR1dvUZB8M/ssis-765.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	S1 NO.1 STYLE`

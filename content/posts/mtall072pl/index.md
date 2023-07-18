@@ -3,20 +3,14 @@ author: j91
 title: MTALL-072 4K Shooting My Lower Body Is Too Smooth… Mr. Prickett’s H91cm Butt Pressure Class Waka Misono Who Unknowingly Seduces You With A Crude Skirt From An Online Shopping Site
 date: 2023-07-13T03:00:00Z
 image: "mtall072pl.jpg"
-tags: [censored]
+tags: [Censored, Back, Big tits, butt, Cowgirl, Female teacher, Solowork]
+maker: [Materiall]
+actress: [Misono Waka]
 ---
-___
 
-{{< youtubepl txwgifltib6b >}}
-___
 
-{{% button href="https://likessb.com/d/txwgifltib6b" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl KwP4zLLwgPFzQ2 >}}
+###
 
-`Release date: 2023-07-13`
+{{% button href="https://streamtape.to/v/KwP4zLLwgPFzQ2/MTALL-072.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

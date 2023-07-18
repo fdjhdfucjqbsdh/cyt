@@ -3,20 +3,14 @@ author: j91
 title: HEYZO 3096 Wanna Fuck A Girl In Gym Shorts! Vol.2 – Karen Takiyama
 date: 2023-07-17T00:45:00Z
 image: "heyzo-3096.jpg"
-tags: [Uncensored]
+tags: [Uncensored, Breasts, Cosplay, Cowgirl, Creampie, Nice Ass]
+maker: [HEYZO]
+actress: [Karen Takiyama]
 ---
-___
 
-{{< youtubepl pop1gkqbz9l6 >}}
-___
 
-{{% button href="https://likessb.com/d/pop1gkqbz9l6" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl A2q7dQ9rqeIXd18 >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/A2q7dQ9rqeIXd18/HEYZO_3096.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Uncensored`

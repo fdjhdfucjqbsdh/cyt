@@ -3,20 +3,14 @@ author: j91
 title: PRED-499 Dr. Riho Gently Accepted Me Who Couldn't Stop Erection And Gave Me Sex During The Night... Riho Fujimori
 date: 2023-07-14T00:45:00Z
 image: "pred499pl.jpg"
-tags: [censored, Premium]
+tags: [Censored, Big tits, Blow, Creampie, Digital Mosaic, Female teacher, Kiss, Solowork]
+maker: [Premium]
+actress: [Fujimori Riho]
 ---
-___
 
-{{< youtubepl hcy18rqgrhpr >}}
-___
 
-{{% button href="https://likessb.com/d/hcy18rqgrhpr" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl Jvx7Bbvz9Qijdbz >}}
+###
 
-`Release date: 2023-07-14`
+{{% button href="https://streamtape.to/v/Jvx7Bbvz9Qijdbz/pred-499.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

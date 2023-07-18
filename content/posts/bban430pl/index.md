@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) BBAN-430
+title: BBAN-430  Super Teasing Slow Lesbian Sex Toying With Sensitive Nipples Premature Ejaculation Nipple Developed Busty Sister-in-law Kashiwagi Konatsu Kanna Misaki
 date: 2023-07-07
 image: "bban430pl.jpg"
+tags: [Censored, Big tits, Dirty Words, Lesbian, Lesbian Kiss]
+maker: [Bibian]
+actress: [Kashiwagi Konatsu, Misaki Kanna]
 ---
 
-###  Super Teasing Slow Lesbian Sex Toying With Sensitive Nipples Premature Ejaculation Nipple Developed Busty Sister-in-law Kashiwagi Konatsu Kanna Misaki
-___
 
-{{< youtubepl w6xt8ogjlc9j >}}
-___
+{{< youtubepl zVd0vqVJMJfoQZ >}}
+###
 
-{{% button href="https://streamsb.net/d/w6xt8ogjlc9j" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/zVd0vqVJMJfoQZ/bban-430.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 160 min`
-
-`Maker:	Bibian`

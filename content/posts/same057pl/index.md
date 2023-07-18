@@ -3,17 +3,14 @@ author: j91.asia
 title: SAME-057 Pounded Like A Bitch In Front Of My Daughter Yuri Sasahara Hina Serizawa
 date: 2023-06-30
 image: "same057pl.jpg"
+tags: [Censored, Mother, Drama, Adopted Daughter]
+maker: [Attackers]
+actress: [Sasahara Yuri, Serizawa Hina]
 ---
 
 
-{{< youtubepl i9a3kscqrtms >}}
-___
+{{< youtubepl eArkqG3lPBhoa8 >}}
+###
 
-{{% button href="https://streamsb.net/d/i9a3kscqrtms" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/eArkqG3lPBhoa8/same-057.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-04`
-
-`Duration: 130 min`
-
-`Maker:	Attackers`

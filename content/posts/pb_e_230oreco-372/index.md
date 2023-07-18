@@ -3,20 +3,14 @@ author: j91
 title: 230ORECO-372 Asami (Asami Mizubata)
 date: 2023-07-17T00:30:00Z
 image: "pb_e_230oreco-372.jpg"
-tags: [Amateur]
+tags: [Amateur, Creampie, Married Woman, Nampa, Virgin Man]
+maker: [My amateur-Z-]
+actress: []
 ---
-___
 
-{{< youtubepl 5ewvrsz3i4au >}}
-___
 
-{{% button href="https://likessb.com/d/5ewvrsz3i4au" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl VYLQeL4127FKBe3 >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/VYLQeL4127FKBe3/230ORECO-372.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Amateur`

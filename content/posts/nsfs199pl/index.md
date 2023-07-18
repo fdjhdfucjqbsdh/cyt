@@ -1,24 +1,16 @@
 ---
 author: j91
-title: NSFS-199
+title: NSFS-199  New Atonement 9 ~Body Becomes Money As Much As It Shakes…~ Yuki Kokona
 date: 2023-07-08T03:15:00Z
 image: "nsfs199pl.jpg"
-tags: [censored]
+tags: [Censored, Affair, Cuckold, Drama, Married Woman, Solowork]
+maker: [Nagae Style]
+actress: [Kokona Yuki]
 ---
 
-###  New Atonement 9 ~Body Becomes Money As Much As It Shakes…~ Yuki Kokona
-___
 
-{{< youtubepl e9rksw0mukdp >}}
-___
+{{< youtubepl K4gYMgl8pVs01Q2 >}}
+###
 
-{{% button href="https://streamsb.net/d/e9rksw0mukdp" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/K4gYMgl8pVs01Q2/nsfs-199.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-08`
-
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

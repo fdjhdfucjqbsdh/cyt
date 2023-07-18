@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) HUNTB-618
+title: HUNTB-618 If It Feels So Good, Would You Like To Do More? If You Extend It, Your Service Will Not Stop! ? A Local Ryokan's Too Big Breasts Masseuse.
 date: 2023-07-07
 image: "huntb618pl.jpg"
+tags: [Censored, Big tits, Creampie, Hardcore, Massage, Nasty, Travel]
+maker: [Hunter]
+actress: [Arioka Miu, Fujii Leila, Mita Sakura]
 ---
 
-### If It Feels So Good, Would You Like To Do More? If You Extend It, Your Service Will Not Stop! ? A Local Ryokan's Too Big Breasts Masseuse.
-___
 
-{{< youtubepl mz8zer53rzh5 >}}
-___
+{{< youtubepl Q2WAjKPQ23cJeM >}}
+###
 
-{{% button href="https://streamsb.net/d/mz8zer53rzh5" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/Q2WAjKPQ23cJeM/huntb-618.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 180 min`
-
-`Maker:	Hunter`

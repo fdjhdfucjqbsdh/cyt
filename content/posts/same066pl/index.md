@@ -3,17 +3,14 @@ author: j91.asia
 title: SAME-066 Competitive Swimsuit Instructor Incontinence Creampie Devil Rape
 date: 2023-06-30
 image: "same066pl.jpg"
+tags: [Censored, Creampie, Solowork, Squirting, School Swimsuit]
+maker: [Attackers]
+actress: [Nogi Ayame]
 ---
 
 
-{{< youtubepl falgoqjo3mm4 >}}
-___
+{{< youtubepl P3Aa3OK03Bixwq >}}
+###
 
-{{% button href="https://streamsb.net/d/falgoqjo3mm4" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/P3Aa3OK03Bixwq/same-066.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-04`
-
-`Duration: 140 min`
-
-`Maker:	Attackers`

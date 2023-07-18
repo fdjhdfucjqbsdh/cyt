@@ -3,20 +3,14 @@ author: j91
 title: PRED-494 175cm Beautiful Legs Active CA AV Appearance! Kaga Iroha
 date: 2023-07-14T00:45:00Z
 image: "pred494pl.jpg"
-tags: [censored, Premium]
+tags: [Censored, 3P, 4P, Debut Production, Digital Mosaic, Slender, Solowork]
+maker: [Premium]
+actress: [Kaga Iroha]
 ---
-___
 
-{{< youtubepl bwvcj06r1owk >}}
-___
 
-{{% button href="https://likessb.com/d/bwvcj06r1owk" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl Gw7abxY6qWslWV >}}
+###
 
-`Release date: 2023-07-14`
+{{% button href="https://streamtape.to/v/Gw7abxY6qWslWV/pred-494.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

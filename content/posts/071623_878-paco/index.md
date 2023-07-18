@@ -3,20 +3,14 @@ author: j91
 title: Pacopacomama 071623_878 The Training For Wife The Wife on Yukata Like to Be Fucked From Front to Back Nono Otsuki
 date: 2023-07-17T00:45:00Z
 image: "071623_878-paco.jpg"
-tags: [Uncensored]
+tags: [Uncensored, Amateur, Bareback, Creampie, Married Woman, Mature Woman, Nice Ass, Shaved, Slender, Yukata]
+maker: [Pacopacomama]
+actress: [Nono Otsuki]
 ---
-___
 
-{{< youtubepl 0iiwrxbgtl1i >}}
-___
 
-{{% button href="https://likessb.com/d/0iiwrxbgtl1i" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl JpjGO9M9BehjMwo >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/JpjGO9M9BehjMwo/071623_878-paco.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Uncensored`

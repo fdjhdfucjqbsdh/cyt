@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) NKKD-287
+title: NKKD-287  I Can Only Love Big Dicks Anymore... Sumire Kurokawa
 date: 2023-07-07
 image: "nkkd287pl.jpg"
+tags: [Censored, Cuckold, Huge Butt, huge cock, Married Woman, Mature Woman, Solowork]
+maker: [JET Eizou]
+actress: [Kurokawa Sumire]
 ---
 
-###  I Can Only Love Big Dicks Anymore... Sumire Kurokawa
-___
 
-{{< youtubepl swaj7p446v3z >}}
-___
+{{< youtubepl Le7L29K2lOiygy >}}
+###
 
-{{% button href="https://streamsb.net/d/swaj7p446v3z" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/Le7L29K2lOiygy/nkkd-287.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	JET Eizou`

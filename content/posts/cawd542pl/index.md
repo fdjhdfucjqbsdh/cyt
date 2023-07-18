@@ -3,17 +3,14 @@ author: j91.asia
 title: CAWD-542 An Innocent Girl Who Awakened To Pleasure After Being Train Slut That Day Raw Yuuhi Shitara
 date: 2023-06-30
 image: "cawd542pl.jpg"
+tags: [Censored, Creampie, School Girls, Solowork, Uniform]
+maker: [Kawaii]
+actress: [Kurimiya Futaba]
 ---
 
 
-{{< youtubepl 6ciftm84sbtf >}}
-___
+{{< youtubepl R9D6vMpYOgfde0x >}}
+###
 
-{{% button href="https://streamsb.net/d/6ciftm84sbtf" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/R9D6vMpYOgfde0x/cawd-542.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-04`
-
-`Duration: 150 min`
-
-`Maker:	Kawaii`

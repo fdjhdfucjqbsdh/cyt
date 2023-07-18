@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) SSIS-781
+title: SSIS-781 Ultimate Slow Masturbation Support Minami Kojima
 date: 2023-07-07
 image: "ssis781pl.jpg"
+tags: [Censored, Handjob, Solowork, Cowgirl, Squirting, Slut, Risky Mosaic Kiss]
+maker: [S1 NO.1 STYLE]
+actress: [Kojima Minami]
 ---
 
-### Ultimate Slow Masturbation Support Minami Kojima
-___
 
-{{< youtubepl xl83fnl2zuz5 >}}
-___
+{{< youtubepl ZqYjqGLgkeSqLbA >}}
+###
 
-{{% button href="https://streamsb.net/d/xl83fnl2zuz5" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/ZqYjqGLgkeSqLbA/ssis-781.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 150 min`
-
-`Maker:	S1 NO.1 STYLE`

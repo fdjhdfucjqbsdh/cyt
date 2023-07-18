@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) BBAN-425
+title: BBAN-425  Please. Please Train Me... Real Masochist Female Slave Private Training Lesbian THE HARD Shiokawa Uni Hana Kano
 date: 2023-07-07
 image: "bban425pl.jpg"
+tags: [Censored, Lesbian, Lesbian Kiss, SM, Squirting]
+maker: [Bibian]
+actress: [Kano Hana, Shiokawa Uni]
 ---
 
-###  Please. Please Train Me... Real Masochist Female Slave Private Training Lesbian THE HARD Shiokawa Uni Hana Kano
-___
 
-{{< youtubepl 577eo5x9xcry >}}
-___
+{{< youtubepl K9rJ73BR7YI0XMR >}}
+###
 
-{{% button href="https://streamsb.net/d/577eo5x9xcry" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/K9rJ73BR7YI0XMR/bban-425.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 190 min`
-
-`Maker:	Bibian`

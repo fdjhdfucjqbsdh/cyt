@@ -3,20 +3,14 @@ author: j91
 title: 739BTPP-001 Mina (Kozue Fujita)
 date: 2023-07-17T00:30:00Z
 image: "pb_e_739btpp-001.jpg"
-tags: [Amateur]
+tags: [Amateur, Beautiful Girl, Creampie, Gal, Nasty&Hardcore]
+maker: []
+actress: [Kozue Fujita]
 ---
-___
 
-{{< youtubepl aduln64dfd60 >}}
-___
 
-{{% button href="https://likessb.com/d/aduln64dfd60" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl eqRoKOdGgXfYP36 >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/eqRoKOdGgXfYP36/739BTPP-001.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Amateur`

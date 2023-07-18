@@ -3,17 +3,14 @@ author: j91.asia
 title: ATID-563 My Wife Became A Drawing Model And Was Taken Down. Tsubaki Sannomiya
 date: 2023-06-30
 image: "atid563pl.jpg"
+tags: [Censored, Solowork, Humiliation, Big Tits, Married Woman, Cuckold]
+maker: [Attackers]
+actress: [Sannomiya Tsubaki]
 ---
 
 
-{{< youtubepl 8paqekwjjz1x >}}
-___
+{{< youtubepl 290B7pxPX2UZkAB >}}
+###
 
-{{% button href="https://streamsb.net/d/8paqekwjjz1x" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/290B7pxPX2UZkAB/atid-563.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-04`
-
-`Duration: 120 min`
-
-`Maker:	Attackers`

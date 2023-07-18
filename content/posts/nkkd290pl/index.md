@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) NKKD-290
+title: NKKD-290  This Time, My Wife (29) Was Caught By A Part-time Job (20) (virgin)... → I'm Sorry, So Please Release The AV As It Is. [Virgin Hunting Series] 
 date: 2023-07-07
 image: "nkkd290pl.jpg"
+tags: [Censored, Voyeur, Tall, Virgin Man, Cuckold, Huge Butt]
+maker: [JET Eizou]
+actress: [Taki Yuina]
 ---
 
-###  This Time, My Wife (29) Was Caught By A Part-time Job (20) (virgin)... → I'm Sorry, So Please Release The AV As It Is. [Virgin Hunting Series] (NKKD-290)
-___
 
-{{< youtubepl zins6tna9s4g >}}
-___
+{{< youtubepl APpGrMgx9RfXyKG >}}
+###
 
-{{% button href="https://streamsb.net/d/zins6tna9s4g" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/APpGrMgx9RfXyKG/nkkd-290.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 160 min`
-
-`Maker:	JET Eizou`

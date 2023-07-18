@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) JUQ-308
+title: JUQ-308 Madonna Dengeki Exclusive Yuki Yoshizawa Serious Berokisu Creampie 3 Fucks
 date: 2023-07-07
 image: "juq308pl.jpg"
+tags: [Censored, Creampie, Solowork, Breasts, Mature Woman, Blu-ray, Digital Mosaic, Kiss]
+maker: [Madonna]
+actress: [Yoshizawa Yuki]
 ---
 
-### Madonna Dengeki Exclusive Yuki Yoshizawa Serious Berokisu Creampie 3 Fucks
-___
 
-{{< youtubepl va1z0ckwszqi >}}
-___
+{{< youtubepl VBg1JD68zofkRW >}}
+###
 
-{{% button href="https://streamsb.net/d/va1z0ckwszqi" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/VBg1JD68zofkRW/juq-308.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 130 min`
-
-`Maker:	Madonna`

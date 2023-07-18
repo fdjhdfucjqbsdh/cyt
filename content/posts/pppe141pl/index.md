@@ -3,20 +3,14 @@ author: j91
 title: PPPE-141 Busty Female Teacher's Temptation Mei Itsukaichi
 date: 2023-07-14T00:40:00Z
 image: "pppe141pl.jpg"
-tags: [censored, Oppai]
+tags: [Censored, Big tits, breasts, Female teacher, Slut, Solowork, Titty fuck]
+maker: [Oppai]
+actress: [Itsukaichi Mei]
 ---
-___
 
-{{< youtubepl iu3xik7v1ney >}}
-___
 
-{{% button href="https://likessb.com/d/iu3xik7v1ney" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl p7l8jr4AB0urQ2K >}}
+###
 
-`Release date: 2023-07-14`
+{{% button href="https://streamtape.to/v/p7l8jr4AB0urQ2K/pppe-141.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

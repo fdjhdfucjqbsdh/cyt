@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) HUNTB-628
+title: HUNTB-628 A Training Camp License In The Countryside Is In A State Of Eating With A Matching App! I Didn't Get Matched With Anyone In The City, But I Got Matched With A Super Cute Girl With The Same Training Camp License!
 date: 2023-07-07
 image: "huntb628pl.jpg"
+tags: [Censored, Blow, Cowgirl, Creampie, Travel, Various Professions]
+maker: [Hunter]
+actress: 
 ---
 
-### A Training Camp License In The Countryside Is In A State Of Eating With A Matching App! I Didn't Get Matched With Anyone In The City, But I Got Matched With A Super Cute Girl With The Same Training Camp License!
-___
 
-{{< youtubepl 06dw1p0feger >}}
-___
+{{< youtubepl BA8gJWoejASybqb >}}
+###
 
-{{% button href="https://streamsb.net/d/06dw1p0feger" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/BA8gJWoejASybqb/huntb-628.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 190 min`
-
-`Maker:	Hunter`

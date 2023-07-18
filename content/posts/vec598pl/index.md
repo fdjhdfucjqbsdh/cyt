@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) VEC-598
+title: VEC-598 Mother's Best Friend Miki Yoshii
 date: 2023-07-07
 image: "vec598pl.jpg"
+tags: [Censored, Big tits, Creampie, Married Woman, Mature Woman, Slut, Solowork]
+maker: [Venus]
+actress: [Isawa Ryouko]
 ---
 
-### Mother's Best Friend Miki Yoshii
-___
 
-{{< youtubepl wr1vug1rrw2c >}}
-___
+{{< youtubepl lwl4M7BpglU7Q1p >}}
+###
 
-{{% button href="https://streamsb.net/d/wr1vug1rrw2c" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/lwl4M7BpglU7Q1p/vec-598.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	Venus`

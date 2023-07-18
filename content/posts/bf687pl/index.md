@@ -3,17 +3,14 @@ author: j91.asia
 title: BF-687 When I Called Deriheru, Her Older Sister Came! Don't Tell My Little Sister, Instead...Let Me Cum Inside You Hinako Mori
 date: 2023-06-30
 image: "bf687pl.jpg"
+tags: [Censored, Beautiful Girl, Big tits, Creampie, Slut, Solowork]
+maker: [Befree]
+actress: [Morinichi Hinako]
 ---
 
 
-{{< youtubepl ijqoll0xvw62 >}}
-___
+{{< youtubepl QgeDADjrzgu0Pdk >}}
+###
 
-{{% button href="https://streamsb.net/d/ijqoll0xvw62" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/QgeDADjrzgu0Pdk/bf-687.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-04`
-
-`Duration: 120 min`
-
-`Maker:	Befree`

@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) JUQ-301
+title: JUQ-301 Rookie Orimoto Serino 31 Years Old AV DEBUT I Want To Penetrate The Deepest Part Of My Vagina That My Husband Can't Reach
 date: 2023-07-07
 image: "juq301pl.jpg"
+tags: [Censored, Solowork, Married Woman, Debut Production, Slender, Documentary, Mature Woman, Digital Mosaic]
+maker: [Madonna]
+actress: [Orimoto Serino]
 ---
 
-### Rookie Orimoto Serino 31 Years Old AV DEBUT I Want To Penetrate The Deepest Part Of My Vagina That My Husband Can't Reach
-___
 
-{{< youtubepl woe66an7wkk2 >}}
-___
+{{< youtubepl GvbxMA46pwsZp8 >}}
+###
 
-{{% button href="https://streamsb.net/d/woe66an7wkk2" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/GvbxMA46pwsZp8/juq-301.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 150 min`
-
-`Maker:	Madonna`

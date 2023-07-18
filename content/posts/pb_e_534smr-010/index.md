@@ -3,20 +3,14 @@ author: j91
 title: 534SMR-010 [Leaked] Behind-The-Scenes Footage_unauthorized Delivery Of Pillow Sales With Slender Models (Kurumi Tamaki)
 date: 2023-07-17T00:30:00Z
 image: "pb_e_534smr-010.jpg"
-tags: [Amateur]
+tags: [Amateur, Beautiful Girl, Breasts, Creampie]
+maker: [Indy]
+actress: [Kurumi Tamaki]
 ---
-___
 
-{{< youtubepl xxt2ohjsfrm9 >}}
-___
 
-{{% button href="https://likessb.com/d/xxt2ohjsfrm9" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl gL4rzB2ZGRc4Gr >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/gL4rzB2ZGRc4Gr/534SMR-010.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Amateur`

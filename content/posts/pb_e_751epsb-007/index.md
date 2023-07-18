@@ -3,20 +3,14 @@ author: j91
 title: 751EPSB-007 Rumichell (Rumi Suzuka)
 date: 2023-07-17T00:30:00Z
 image: "pb_e_751epsb-007.jpg"
-tags: [Amateur]
+tags: [Amateur, Beautiful Girl, Creampie, Gal, Model, Nampa]
+maker: []
+actress: [Rumi Suzuka]
 ---
-___
 
-{{< youtubepl 7pmn476rwm1d >}}
-___
 
-{{% button href="https://likessb.com/d/7pmn476rwm1d" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl plM2ObLLwmfra2Z >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/plM2ObLLwmfra2Z/751EPSB-007.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Amateur`

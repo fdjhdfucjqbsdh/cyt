@@ -3,20 +3,14 @@ author: j91
 title: PRED-501 Close Contact & Whispering Even Though She Is At Close Range! Immoral Feeling Too Pleasant Creampie Temptation Karen Yuzuriha
 date: 2023-07-14T00:45:00Z
 image: "pred501pl.jpg"
-tags: [censored, Premium]
+tags: [Censored, Big tits, Creampie, Cuckold, Digital Mosaic, Older sister, Slut, Solowork]
+maker: [Premium]
+actress: [Yuzuriha Karen]
 ---
-___
 
-{{< youtubepl 7rkg2grk1kus >}}
-___
 
-{{% button href="https://likessb.com/d/7rkg2grk1kus" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl xg9JqxbBGOfkdZ4 >}}
+###
 
-`Release date: 2023-07-14`
+{{% button href="https://streamtape.to/v/xg9JqxbBGOfkdZ4/pred-501.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

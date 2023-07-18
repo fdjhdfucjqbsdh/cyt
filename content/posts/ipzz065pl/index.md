@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) IPZZ-065
+title: IPZZ-065 Days Of Business Trips And Switching Places... Unequaled Beauty OL Who Brings A Man-Good Unequaled SEX For The Convenience Of Immediate Sex- Tsumugi Akari
 date: 2023-07-07
 image: "ipzz065pl.jpg"
+tags: [Censored, Creampie, Solowork, Older Sister, Slut, Digital Mosaic, Cuckold	]
+maker: [IDEA POCKET]
+actress: [Akari Tsumugi]
 ---
 
-### Days Of Business Trips And Switching Places... Unequaled Beauty OL Who Brings A Man-Good Unequaled SEX For The Convenience Of Immediate Sex- Tsumugi Akari
-___
 
-{{< youtubepl nfapvnl7t55c >}}
-___
+{{< youtubepl oZGYjpm3lbIJ1ll >}}
+###
 
-{{% button href="https://streamsb.net/d/nfapvnl7t55c" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/oZGYjpm3lbIJ1ll/ipzz-065.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 140 min`
-
-`Maker:	IDEA POCKET`

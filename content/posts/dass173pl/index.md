@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) DASS-173
+title: DASS-173 Slutty NH Aizawa Sara
 date: 2023-07-07
 image: "dass173pl.jpg"
+tags: [Censored, Slut, Solowork, Transsexual]
+maker: [Das !]
+actress: [Aizawa Sara]
 ---
 
-### Slutty NH Aizawa Sara
-___
 
-{{< youtubepl ubbzsenc3k7f >}}
-___
+{{< youtubepl YDeMDbdDB2i2r3 >}}
+###
 
-{{% button href="https://streamsb.net/d/ubbzsenc3k7f" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/YDeMDbdDB2i2r3/dass-173.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 150 min`
-
-`Maker:	Das!`

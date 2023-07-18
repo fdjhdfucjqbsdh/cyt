@@ -3,20 +3,14 @@ author: j91
 title: 292MY-700 Yuka Inamori 2
 date: 2023-07-17T00:30:00Z
 image: "pb_e_292my-700.jpg"
-tags: [Amateur]
+tags: [Affair, Amateur, Big Tits, Bride&Young Wife, Married Woman]
+maker: [Mywife]
+actress: []
 ---
-___
 
-{{< youtubepl q7pfk50hhpny >}}
-___
 
-{{% button href="https://likessb.com/d/q7pfk50hhpny" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl v2pXoPrOYMuLyz >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/v2pXoPrOYMuLyz/292MY-700.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Amateur`

@@ -3,20 +3,14 @@ author: j91
 title: 777YMYM-019 Yamiyami 014 / Beautiful Woman Who Crashed Into A Billboard / Yamiyami A*****l (Mirai Natsume)
 date: 2023-07-17T00:34:00Z
 image: "pb_e_777ymym-019.jpg"
-tags: [Amateur]
+tags: [Amateur, Big Tits, Gal, Slender, Squirting]
+maker: []
+actress: [Mirai Natsume]
 ---
-___
 
-{{< youtubepl lo9o73u3r0ww >}}
-___
 
-{{% button href="https://likessb.com/d/lo9o73u3r0ww" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl rkZa6OvOqXsbmG1 >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/rkZa6OvOqXsbmG1/777YMYM-019.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Amateur`

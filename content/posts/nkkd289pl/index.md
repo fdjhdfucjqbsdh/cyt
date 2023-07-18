@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) NKKD-289
+title: NKKD-289  My Daughter-in-Law Was Treated To The Neighborhood's Severe Men...Hana Haruna
 date: 2023-07-07
 image: "nkkd289pl.jpg"
+tags: [Censored, Cuckold, Huge Butt, Married Woman, Solowork, Ultra-Huge Tits]
+maker: [JET Eizou]
+actress: [Haruna Hana]
 ---
 
-###  My Daughter-in-Law Was Treated To The Neighborhood's Severe Men...Hana Haruna
-___
 
-{{< youtubepl xqgjt40lti5t >}}
-___
+{{< youtubepl ZVZmAjDoKbiqlkg >}}
+###
 
-{{% button href="https://streamsb.net/d/xqgjt40lti5t" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/ZVZmAjDoKbiqlkg/nkkd-289.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	JET Eizou`

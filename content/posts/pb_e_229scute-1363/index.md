@@ -3,20 +3,14 @@ author: j91
 title: 229SCUTE-1363 Maina (24) S-Cute Life-Like Erotic Buttocks Are Dangerous H (Maina Miura)
 date: 2023-07-17T00:30:00Z
 image: "pb_e_229scute-1363.jpg"
-tags: [Amateur]
+tags: [Amateur, Beautiful Girl, Nice Ass]
+maker: [S-cute]
+actress: []
 ---
-___
 
-{{< youtubepl yqcz2c9cz88l >}}
-___
 
-{{% button href="https://likessb.com/d/yqcz2c9cz88l" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl mlRrWZWVWYhMae >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/mlRrWZWVWYhMae/229SCUTE-1363.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Amateur`

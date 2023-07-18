@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) NKKD-288
+title: NKKD-288  Big Penis Incest Son's Stripped Cock Mother Kanna Misaki
 date: 2023-07-07
 image: "nkkd288pl.jpg"
+tags: [Censored, Aunt, breasts, Cuckold, huge cock, Married Woman, Solowork]
+maker: [JET Eizou]
+actress: [Misaki Kanna]
 ---
 
-###  Big Penis Incest Son's Stripped Cock Mother Kanna Misaki
-___
 
-{{< youtubepl 2fo81zojbfag >}}
-___
+{{< youtubepl K7OMAjkbV6i0xal >}}
+###
 
-{{% button href="https://streamsb.net/d/2fo81zojbfag" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/K7OMAjkbV6i0xal/nkkd-288.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	JET Eizou`

@@ -3,17 +3,14 @@ author: j91.asia
 title: WAAA-279 Pies Many Times In The State Of It's Already Gone!
 date: 2023-06-30
 image: "waaa279pl.jpg"
+tags: [Censored, 3P, 4P, Big tits, Creampie, Hardcore, Nasty, Solowork, Squirting]
+maker: [WANZ FACTORY]
+actress: [Fujimori Riho]
 ---
 
 
-{{< youtubepl jp0eqzow3lb3 >}}
-___
+{{< youtubepl W6BkmMDgdzubvmK >}}
+###
 
-{{% button href="https://streamsb.net/d/jp0eqzow3lb3" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/W6BkmMDgdzubvmK/waaa-279.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-04`
-
-`Duration: 120 min`
-
-`Maker:	WANZ FACTORY`

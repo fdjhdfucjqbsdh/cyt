@@ -3,20 +3,14 @@ author: j91
 title: 10musume 071723_01 Masturbation While Thinking About Someone She Likes Sakura Nagata
 date: 2023-07-17T00:45:00Z
 image: "071723_01-10mu.jpg"
-tags: [Uncensored]
+tags: [Uncensored, Amateur, Breasts, Nice Ass, Shaved, Slender]
+maker: [10musume]
+actress: [Sakura Nagata]
 ---
-___
 
-{{< youtubepl gx30bpyg4o0s >}}
-___
 
-{{% button href="https://likessb.com/d/gx30bpyg4o0s" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl 282J99gqebfZgZ7 >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/282J99gqebfZgZ7/071723_01-10mu.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Uncensored`

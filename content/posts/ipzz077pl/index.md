@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) IPZZ-077
+title: IPZZ-077 Drooling Sloppy Spit Rich Kiss And Sex With The Best Beauty Yua Mikami
 date: 2023-07-07
 image: "ipzz077pl.jpg"
+tags: [Censored, Solowork, Older Sister, Big Tits, Slut, Digital Mosaic, Kiss]
+maker: [IDEA POCKET]
+actress: [Mikami Yua]
 ---
 
-### Drooling Sloppy Spit Rich Kiss And Sex With The Best Beauty Yua Mikami
-___
 
-{{< youtubepl wnvc15drzkpi >}}
-___
+{{< youtubepl JDawOj8lrrFjLrZ >}}
+###
 
-{{% button href="https://streamsb.net/d/wnvc15drzkpi" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/JDawOj8lrrFjLrZ/ipzz-077.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	IDEA POCKET`

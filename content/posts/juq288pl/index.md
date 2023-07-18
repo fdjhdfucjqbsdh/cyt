@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) JUQ-288
+title: JUQ-288 Soap Play First, Lifted, Banned Next-generation Madonna Exclusive - Two People With Excellent Compatibility In Body And Mind -. 'Thoughts' And 'Lips' Overlap Dense Close Kiss Soap Aoi Ichino
 date: 2023-07-07
 image: "juq288pl.jpg"
+tags: [Censored, Creampie, Solowork, Married Woman, Mature Woman, Digital Mosaic, Kiss, Soapland]
+maker: [Madonna]
+actress: [Ichino Aoi]
 ---
 
-### Soap Play First, Lifted, Banned Next-generation Madonna Exclusive - Two People With Excellent Compatibility In Body And Mind -. 'Thoughts' And 'Lips' Overlap Dense Close Kiss Soap Aoi Ichino
-___
 
-{{< youtubepl w93a7kdvpibn >}}
-___
+{{< youtubepl MZDJjDJrVPsmRYy >}}
+###
 
-{{% button href="https://streamsb.net/d/w93a7kdvpibn" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/MZDJjDJrVPsmRYy/juq-288.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 140 min`
-
-`Maker:	Madonna`

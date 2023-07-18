@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) IPZZ-097
+title: IPZZ-097 Rookie FIRST IMPRESSION 160-New Star- Sudden Change Super Class Beautiful Girl AV Debut Aya Nanjo
 date: 2023-07-07
 image: "ipzz097pl.jpg"
+tags: [Censored, Blow, Solowork, Big Tits, POV, Debut Production, Beautiful Girl, Digital Mosaic]
+maker: [IDEA POCKET]
+actress: [Nanjou Akari]
 ---
 
-### Rookie FIRST IMPRESSION 160-New Star- Sudden Change Super Class Beautiful Girl AV Debut Aya Nanjo
-___
 
-{{< youtubepl sw4zbse803qa >}}
-___
+{{< youtubepl kwVOW24G7zs80z >}}
+###
 
-{{% button href="https://streamsb.net/d/sw4zbse803qa" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/kwVOW24G7zs80z/ipzz-097.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 220 min`
-
-`Maker:	IDEA POCKET`

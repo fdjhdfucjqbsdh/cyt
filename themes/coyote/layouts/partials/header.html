@@ -1,19 +1,7 @@
-<header class="header">
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <a class="navbar-brand" href="#"></a>
-  <div class="container-fluid">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav me-auto">
-&nbsp; &nbsp; &nbsp;
-  <a href="/"><button type="button" class="btn btn-outline-primary"><h3>MAIN PAGE</h3></button></a>&nbsp; &nbsp; &nbsp;
-  <a href="/tags/censored/"><button type="button" class="btn btn-outline-success"><h3>Censored</h3></button></a>&nbsp; &nbsp; &nbsp;
-  <a href="/tags/uncensored/"><button type="button" class="btn btn-outline-info"><h3>Uncensored</h3></button></a>&nbsp; &nbsp; &nbsp;
-  <a href="/tags/amateur/"><button type="button" class="btn btn-outline-danger"><h3>Amateur</h3></button></a>&nbsp; &nbsp; &nbsp;
-    </ul>
-&nbsp; &nbsp; &nbsp;
+<div class="header"></div>
+     <div class="nav-bar">
+        <div class="nav-container">
+            <div class="brand">
         <a href="{{ "search" | absURL }}">
           <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
             stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -21,10 +9,26 @@
             <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
           </svg>
         </a>
-    </div>
-  </div>
-</nav>
-</header>
+
+            </div>
+            <nav>
+                <div class="nav-mobile">
+                    <a href="#" id="nav-toggle">
+                        <span></span>
+                    </a>
+                </div>
+                <ul class="nav-list">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/tags/censored/">Censored</a></li>
+                    <li><a href="/tags/uncensored/">Uncensored</a>
+                    <li><a href="/tags/amateur/">Amateur</a>
+                    
+                </ul>
+            </nav>
+       </div>
+    </div> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://j91.asia/asset/navdrop.js"></script>
 
 <br>
 <br>

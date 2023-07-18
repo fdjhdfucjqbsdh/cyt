@@ -3,17 +3,14 @@ author: j91.asia
 title: SAME-053 Finally, My Mother-in-law Said To Me,
 date: 2023-06-30
 image: "same053pl.jpg"
+tags: [Censored, Solowork, Pantyhose, Married Woman, Affair, Mature Woman, Drama, Stepmother]
+maker: [Attackers]
+actress: [Iwasa Mei]
 ---
 
 
-{{< youtubepl ujw3pw3dbwha >}}
-___
+{{< youtubepl 9PMxwP4OwZSaeQk >}}
+###
 
-{{% button href="https://streamsb.net/d/ujw3pw3dbwha" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/9PMxwP4OwZSaeQk/same-053.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-04`
-
-`Duration: 120 min`
-
-`Maker:	Attackers`

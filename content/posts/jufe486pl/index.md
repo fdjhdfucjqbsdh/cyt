@@ -3,20 +3,14 @@ author: j91
 title: JUFE-486 Commemorating The 20th Series! Luxurious W Starring! ! Absolutely Looking From Above Busty Slut Controls Dirty Words Ultimate Subjective JOI That Is Controlled By Ejaculation Yuri Hikawa Miu Arioka
 date: 2023-07-14T00:37:00Z
 image: "jufe486pl.jpg"
-tags: [censored, Fitch]
+tags: [Censored, Dirty Words, Big Tits, Slut, Subjectivity, Digital Mosaic, Submissive Men]
+maker: [Fitch]
+actress: [Oshikawa Yuuri Arioka Miu]
 ---
-___
 
-{{< youtubepl epvrsgzqxenh >}}
-___
 
-{{% button href="https://likessb.com/d/epvrsgzqxenh" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl bpvBmXk3mzIP1gz >}}
+###
 
-`Release date: 2023-07-14`
+{{% button href="https://streamtape.to/v/bpvBmXk3mzIP1gz/jufe-486.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

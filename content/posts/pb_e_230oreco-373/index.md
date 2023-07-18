@@ -3,20 +3,14 @@ author: j91
 title: 230ORECO-373 Azusa (Tani Azusa)
 date: 2023-07-17T00:30:00Z
 image: "pb_e_230oreco-373.jpg"
-tags: [Amateur]
+tags: [Amateur, Creampie, Married Woman, Nampa, Virgin Man]
+maker: [My amateur-Z-]
+actress: []
 ---
-___
 
-{{< youtubepl vbuvp4rzikfp >}}
-___
 
-{{% button href="https://likessb.com/d/vbuvp4rzikfp" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl AML7x0GAokIXkkQ >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/AML7x0GAokIXkkQ/230ORECO-373.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Amateur`

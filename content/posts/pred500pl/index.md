@@ -3,20 +3,14 @@ author: j91
 title: PRED-500 Father-in-law, If You Hold Me So Strongly... The Days When A Young Wife Drowned In Vaginal Cum Shot Sex With Her Unfaithful Father-in-law. Aika Yamagishi
 date: 2023-07-14T00:45:00Z
 image: "pred500pl.jpg"
-tags: [censored, Premium]
+tags: [Censored, Affair, Creampie, Cuckold, Digital Mosaic, Married Woman, Solowork, Sweat]
+maker: [Premium]
+actress: [Yamagishi Aika]
 ---
-___
 
-{{< youtubepl 3u6cd95ju860 >}}
-___
 
-{{% button href="https://likessb.com/d/3u6cd95ju860" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl YLeajO4xg0IBZl >}}
+###
 
-`Release date: 2023-07-14`
+{{% button href="https://streamtape.to/v/YLeajO4xg0IBZl/pred-500.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

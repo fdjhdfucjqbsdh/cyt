@@ -3,20 +3,14 @@ author: j91
 title: 324SRTD-0354 Today’s Real Female College Student I’m An AV Actor, But Would You Like To Take A POV?
 date: 2023-07-17T00:30:00Z
 image: "pb_e_324srtd-0354.jpg"
-tags: [Amateur]
+tags: [Amateur, Big Tits, Nampa, POV, Shaved, Squirting, User Submission]
+maker: [ItteQ]
+actress: []
 ---
-___
 
-{{< youtubepl 0h9fz45z9g14 >}}
-___
 
-{{% button href="https://likessb.com/d/0h9fz45z9g14" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl BGrG4Vkr2JIKQr >}}
+###
 
-`Release date: 2023-07-17`
+{{% button href="https://streamtape.to/v/BGrG4Vkr2JIKQr/324SRTD-0354.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Amateur`

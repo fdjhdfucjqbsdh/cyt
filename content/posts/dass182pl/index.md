@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) DASS-182
+title: DASS-182 The Back Face Of A Childhood Friend I Don't Know. Rukawa Rio
 date: 2023-07-07
 image: "dass182pl.jpg"
+tags: [Censored, Creampie, Solowork, School Girls, Big Tits, Drama, Cuckold]
+maker: [Das !]
+actress: [Nagarekawa Rio]
 ---
 
-### The Back Face Of A Childhood Friend I Don't Know. Rukawa Rio
-___
 
-{{< youtubepl 2f00qx0y6e3t >}}
-___
+{{< youtubepl rgRjWev2G1Sb28l >}}
+###
 
-{{% button href="https://streamsb.net/d/2f00qx0y6e3t" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/rgRjWev2G1Sb28l/dass-182.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	Das!`

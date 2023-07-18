@@ -3,20 +3,14 @@ author: j91
 title: MEYD-826 My Friend Kano JULIA My Mother Is Stupid And I'm Troubled For The First Time With Her Unequaled Best Friend...
 date: 2023-07-14T00:38:00Z
 image: "meyd826pl.jpg"
-tags: [censored, Tameike-Goro]
+tags: [Censored, Big tits, Married Woman, Mature Woman, Mother, Solowork]
+maker: [Tameike Goro-]
+actress: [Julia]
 ---
-___
 
-{{< youtubepl qf3e0qkaz9u8 >}}
-___
 
-{{% button href="https://likessb.com/d/qf3e0qkaz9u8" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl bkeJJdv6jDCP3aG >}}
+###
 
-`Release date: 2023-07-14`
+{{% button href="https://streamtape.to/v/bkeJJdv6jDCP3aG/meyd-826.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

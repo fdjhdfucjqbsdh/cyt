@@ -3,17 +3,14 @@ author: j91.asia
 title: CAWD-550 Pole, Ball Bag, Anal, Nipple, Feet, Ears, Whole Body Licking Leverage Slut Ruru Mishiro
 date: 2023-06-30
 image: "cawd550pl.jpg"
+tags: [Censored, Blow, Creampie, Kiss, Slut, Solowork, Uniform]
+maker: [Kawaii]
+actress: [Mishiro Ruru]
 ---
 
 
-{{< youtubepl u12l3aaa7ytn >}}
-___
+{{< youtubepl Lqb2OpYV44tRk31 >}}
+###
 
-{{% button href="https://streamsb.net/d/u12l3aaa7ytn" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/Lqb2OpYV44tRk31/cawd-550.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-04`
-
-`Duration: 180 min`
-
-`Maker:	Kawaii`

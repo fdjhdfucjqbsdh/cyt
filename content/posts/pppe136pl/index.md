@@ -3,20 +3,14 @@ author: j91
 title: PPPE-136 Ikasare Fainting Acme With 6 Costumes! Pursuit Restart! Immediately Tobi Brain Bug FUCK! Karen Yuzuriha
 date: 2023-07-14T00:40:00Z
 image: "pppe136pl.jpg"
-tags: [censored, Oppai]
+tags: [Censored, Big tits, Cosplay, Creampie, Solowork, Squirting, Titty fuck]
+maker: [Oppai]
+actress: [Yuzuriha Karen]
 ---
-___
 
-{{< youtubepl xvwa53jbspau >}}
-___
 
-{{% button href="https://likessb.com/d/xvwa53jbspau" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{< youtubepl gPGbd09By0h4yR >}}
+###
 
-`Release date: 2023-07-14`
+{{% button href="https://streamtape.to/v/gPGbd09By0h4yR/pppe-136.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Server: StreamSB`
-
-`Type: Video/mp4`
-
-`Genre:	Censored`

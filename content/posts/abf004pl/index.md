@@ -1,21 +1,15 @@
 ---
 author: j91
-title: ABF-004
+title: ABF-004 Little Devil Cousin Meguri Minoshima Comes To Me As A Virgin Who Returned Home
 date: 2023-07-06
 image: "abf004pl.jpg"
+tags: [Censored, Solowork, Masturbation, Facials, Subjectivity, Virgin Man, AV Actress]
+maker: [Prestige]
+actress: [Minoshima Meguri]
 ---
 
-### Little Devil Cousin Meguri Minoshima Comes To Me As A Virgin Who Returned Home
-___
 
-{{< youtubepl ebhgk18hgaen >}}
-___
+{{< youtubepl AKvdRDGk4luBmM >}}
+###
 
-{{% button href="https://streamsb.net/d/ebhgk18hgaen" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
-
-`Release date: 2023-07-06`
-
-`Duration: 150 min`
-
-`Genre:	Censored`
+{{% button href="https://streamtape.to/v/AKvdRDGk4luBmM/ABF-004.mp4" icon="fas fa-download" %}}download this video{{% /button %}}

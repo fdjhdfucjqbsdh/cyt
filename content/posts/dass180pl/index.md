@@ -1,21 +1,16 @@
 ---
 author: j91.asia
-title: (c) DASS-180
+title: DASS-180 If You Haven't Gone Yet! ! Shrimp Warp Climax Of Immediately Iki Female Boss Who Gets Stupid Immediately Sumire Kurokawa
 date: 2023-07-07
 image: "dass180pl.jpg"
+tags: [Censored, OL, Creampie, Solowork, Big Tits, Female Boss]
+maker: [Das !]
+actress: [Kurokawa Sumire]
 ---
 
-### If You Haven't Gone Yet! ! Shrimp Warp Climax Of Immediately Iki Female Boss Who Gets Stupid Immediately Sumire Kurokawa
-___
 
-{{< youtubepl 53ov6yrbqd3h >}}
-___
+{{< youtubepl KQR1qzGXjjH0r1Y >}}
+###
 
-{{% button href="https://streamsb.net/d/53ov6yrbqd3h" icon="fas fa-download" %}}download this video{{% /button %}}
-### About
+{{% button href="https://streamtape.to/v/KQR1qzGXjjH0r1Y/dass-180.mp4" icon="fas fa-download" %}}download this video{{% /button %}}
 
-`Release date: 2023-07-11`
-
-`Duration: 120 min`
-
-`Maker:	Das!`
