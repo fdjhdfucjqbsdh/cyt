@@ -34,9 +34,26 @@ from = "/npmjs/*"
 to = "/npmjs/"
 status = 200
 
-[taxonomies]
-   tag = "tags"
-   category = "categories"
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+  [[related.indices]]
+    name = "title"
+    weight = 30
+
+  [[related.indices]]
+    name = "description"
+    weight = 30
+
+  [[related.indices]]
+    name = "tags"
+    weight = 30
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
 
 [menu]
     [[menu.nav]]
