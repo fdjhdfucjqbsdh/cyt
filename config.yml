@@ -32,6 +32,10 @@ related:
   indices:
   - name: title
     weight: 30
+  - name: actress
+    weight: 30
+  - name: maker
+    weight: 30
   - name: description
     weight: 30
   - name: tags
