@@ -35,7 +35,7 @@ input.addEventListener('keyup', (e) => {
 
     for (let i in items) {
       itemList += `<div class="resultItem">`
-        + `<div class="resultItem__media" style="background-image: url(${items[i].item.image});"></div>`
+        + `<div class="resultItem__media" style="background-image: url(${items[i].item.image});"></div><br>`
         + `<div class="resultItem__body">`
         + `<h3 class="resultItem__title"><a href="${items[i].item.permalink}">${items[i].item.title}</a></h3>`
         + `<div class="resultItem__footer">${items[i].item.date}</div>`
