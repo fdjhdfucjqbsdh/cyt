@@ -28,10 +28,18 @@ taxonomies:
   series: "actress"
 
 related:
-  includeNewer: false
+  includeNewer: true
   indices:
-  - name: keywords
-    weight: 100
+  - name: title
+    weight: 30
+  - name: actress
+    weight: 30
+  - name: maker
+    weight: 30
+  - name: description
+    weight: 30
+  - name: tags
+    weight: 30
   - name: date
     weight: 10
   threshold: 80
