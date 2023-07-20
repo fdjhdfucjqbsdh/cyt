@@ -39,8 +39,8 @@
   display: flex;
 
   &__media {
-    width: 80px;
-    height: 80px;
+    width: 280px;
+    height: 170px;
     background-position: center;
     background-size: cover;
     border-radius: 8px;
@@ -51,7 +51,7 @@
   }
 
   &__title {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     font-weight: 700;
     margin-bottom: 0.4rem;
   }
