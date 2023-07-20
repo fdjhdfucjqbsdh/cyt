@@ -3,9 +3,9 @@ author: j91
 title: IQQQ-39 Married Teacher Chiyoko Kawabata Who Gets Wet 10 Times In A Climax Class Where She Can’t Speak
 date: 2023-07-20T00:00:00Z
 image: "h_086iqqq39pl.jpg"
-tags: [Censored, ]
-maker: []
-actress: []
+tags: [Censored, Creampie,Solowork,Female Teacher,Married Woman,Mature Woman]
+maker: [Center Village]
+actress: [Kawabata Chiyoko]
 ---
 
 
