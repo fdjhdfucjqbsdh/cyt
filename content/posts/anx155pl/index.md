@@ -4,7 +4,7 @@ title: ANX-155 AI Event X Black Art Dream
 date: 2023-07-22T00:00:00Z
 image: "anx155pl.jpg"
 tags: [Censored, ]
-maker: []
+maker: [Saimin Kenkyuusho Bekkan  ]
 actress: []
 ---
 
