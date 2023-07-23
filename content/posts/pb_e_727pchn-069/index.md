@@ -3,8 +3,8 @@ author: j91
 title: 727PCHN-069 153cm Small Tits Shaved Pussy J*! Pies To An Erotic Girl Who Can Not Imagine From The Appearance That Seems To Be Quiet!
 date: 2023-07-22T03:00:00Z
 image: "pb_e_727pchn-069.jpg"
-tags: [Amateur, ]
-maker: []
+tags: [Amateur, Shaved,Erotic Girl]
+maker: [727PCHN]
 actress: []
 ---
 
