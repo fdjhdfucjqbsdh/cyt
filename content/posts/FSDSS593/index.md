@@ -13,9 +13,14 @@ actress: [Ichika Sensei]
 
 ###
 
+{{< youtubepl LM069vpee8FRXby >}}
+
+###
+
 {{< rawhtml >}}
 
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
+  
   <center>
   <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2"><h2>Download</h2></button></center>
 </p>
@@ -23,9 +28,9 @@ actress: [Ichika Sensei]
   <div class="col">
     <div class="collapse multi-collapse" id="multiCollapseExample1">
       <div class="card card-body">
-	      <br>
-<center><a href="https://streamtape.to/v/GXxrMZML7eh1MQG/fsdss-593.mp4" target="_blank"><img src="https://streamtape.to/images/Logo@2x.png" width="150" alt="streamtape"></a></center>
-	      <br><br>
+	      	      <br>
+<div class="buttons">  
+<a href="https://streamtape.to/v/GXxrMZML7eh1MQG/fsdss-593.mp4"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
     </div>
   </div>
 </div>
@@ -33,7 +38,8 @@ actress: [Ichika Sensei]
     <div class="collapse multi-collapse" id="multiCollapseExample2">
       <div class="card card-body">
 	      <br>
-<center><a href="https://streamruby.com/tbgnt82q9shh.html" target="_blank"><img src="https://j91.asia/asset/ruuby.png" width="150" alt="streamruby"></a></center>
+<div class="buttons">
+    <a href="https://streamruby.com/tbgnt82q9shh.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></div>
 <br><br>
       </div>
     </div>
