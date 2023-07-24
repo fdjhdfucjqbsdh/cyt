@@ -24,7 +24,7 @@ actress: [Ichika Sensei]
     <div class="collapse multi-collapse" id="multiCollapseExample1">
       <div class="card card-body">
 	      <br>
-<center><a href="https://streamtape.to/v/GXxrMZML7eh1MQG/fsdss-593.mp4" target="_blank"><img src="https://streamtape.to/images/Logo@2xDark.png" width="185" alt="streamtape"></a></center>
+<center><a href="https://streamtape.to/v/GXxrMZML7eh1MQG/fsdss-593.mp4" target="_blank"><img src="https://streamtape.to/images/Logo@2xDark.png" width="150" alt="streamtape"></a></center>
 	      <br><br>
     </div>
   </div>
@@ -33,7 +33,7 @@ actress: [Ichika Sensei]
     <div class="collapse multi-collapse" id="multiCollapseExample2">
       <div class="card card-body">
 	      <br>
-<center><a href="https://streamruby.com/tbgnt82q9shh.html" target="_blank"><img src="https://streamruby.com/images/New_theme/logo.png" width="60" alt="streamruby"></a></center>
+<center><a href="https://streamruby.com/tbgnt82q9shh.html" target="_blank"><img src="https://j91.asia/asset/ruuby.png" width="150" alt="streamruby"></a></center>
 <br><br>
       </div>
     </div>
