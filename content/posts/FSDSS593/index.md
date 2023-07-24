@@ -24,7 +24,7 @@ actress: [Ichika Sensei]
     <div class="collapse multi-collapse" id="multiCollapseExample1">
       <div class="card card-body">
 	      <br>
-<center><a href="https://streamtape.to/v/GXxrMZML7eh1MQG/fsdss-593.mp4" target="_blank"><img src="https://streamtape.to/images/Logo@2xDark.png" width="150" alt="streamtape"></a></center>
+<center><a href="https://streamtape.to/v/GXxrMZML7eh1MQG/fsdss-593.mp4" target="_blank"><img src="https://streamtape.to/images/Logo@2x.png" width="150" alt="streamtape"></a></center>
 	      <br><br>
     </div>
   </div>
