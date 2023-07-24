@@ -16,7 +16,7 @@
           <!-- The part of the page that begins to differ between templates -->
         {{ end }}
       </main>
-
+        {{ block "footer" . }}{{ end }}
       {{- partialCached "footer.html" . }}
     </div>
     
@@ -47,7 +47,7 @@ window.document.querySelectorAll||(document.querySelectorAll=document.body.query
 </script> 
 
     <script type="text/javascript" src="https://j91.asia/asset/img-modal.js"></script>
-    <script type="text/javascript" src="https://j91.asia/asset/allert.js"></script>
+
     
   </body>
 </html>
