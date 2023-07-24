@@ -2,14 +2,20 @@
 author: j91
 title: FSDSS-593 F****d Ejaculation And Cum Swallowing Until Morning On A Stayover Date. I Want To Be A Slut Earnestly Until Ichika Teacher Runs Out Of Sperm. Teacher Ichika
 date: 2023-07-24T00:30:00Z
-image: "FSDSS593.jpg"
+image: "593-fsdss.jpg"
 tags: [Censored, Blowjob,Bunny Girl,Cum,Solowork]
 maker: [FALENO]
 actress: [Ichika Sensei]
 ---
 
 
-{{< youtubepl GXxrMZML7eh1MQG >}}
+<div class="video" data-videoid="GXxrMZML7eh1MQG">
+    <a href="javascript:;">
+        <img src="https://my.j91.asia/posts/fsdss593/FSDSS593.jpg" width="WIDTH" height="HEIGHT" alt="FSDSS593.mp4" loading="lazy">
+    </a>
+</div>
+
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 ###
 
