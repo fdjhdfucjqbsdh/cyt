@@ -13,10 +13,6 @@ actress: [Ichika Sensei]
 
 ###
 
-{{< youtubepl LM069vpee8FRXby >}}
-
-###
-
 {{< rawhtml >}}
 
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
