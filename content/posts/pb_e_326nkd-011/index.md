@@ -3,9 +3,9 @@ author: j91
 title: 326NKD-011 [Creampie Tracking 24 Hours] Unforgivable Malicious Tricks…Beauty Bureau Girls Who Take Cash From Unpopular Men Fall Into Pleasure And Vaginal Cum Shot Success! ! [Case 11 / Beauty Bureau Girl] (Aya Izumi)
 date: 2023-07-25T02:11:00Z
 image: "pb_e_326nkd-011.jpg"
-tags: [Amateur, ]
-maker: []
-actress: []
+tags: [Amateur, Breasts,Creampie,Gal,Nice Ass,Planning,Sexy Legs,Slender,Squirting,Creampie]
+maker: [Kurofune]
+actress: [Aya Izumi]
 ---
 
 
