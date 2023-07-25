@@ -6,7 +6,8 @@
 <img class="article__image" src="{{ $small.RelPermalink }}">
     </div>
     <div class="article__text">
-      <h3 class="article__title">{{ .Title | safeHTML | truncate 45 }}</h3>
+      <div class="truncated" title="{{ .Title }}">
+      <h3 class="article__title">{{ .Title | safeHTML | truncate 45 }}</h3></div>
     </div>
   </a>
   <footer class="article__footer">
