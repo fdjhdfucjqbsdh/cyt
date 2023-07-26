@@ -3,8 +3,8 @@ author: j91
 title: FC2PPV 3595092 [Naive, Non-Sex Year] Innocent Who Lives In Wakayama Who Longs For The Entertainment World Experiences Sex For The Second Time In Her Life
 date: 2023-07-26T01:00:00Z
 image: "FC2-PPV-3595092.jpg"
-tags: [Uncensored, ]
-maker: []
+tags: [Uncensored, Virgin]
+maker: [FC2PPV]
 actress: []
 ---
 

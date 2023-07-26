@@ -4,8 +4,8 @@ title: C0930 ki230725 Mika Sakamoto 22years old
 date: 2023-07-26T00:50:00Z
 image: "c0930-ki230725.jpg"
 tags: [Uncensored, ]
-maker: []
-actress: []
+maker: [Mika Sakamoto]
+actress: [C0930]
 ---
 
 
