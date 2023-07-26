@@ -2,7 +2,7 @@
 author: j91
 title: FC2PPV 3612986 [Individual Shot 90] Complete Appearance Prefectural K ③ Slender Shaved Pussy After Outdoor Exposure And Vaginal Cum Shot, Let Sperm Be Licked Many Times Cleaning Blowjob Limited Time 5000pt → 2500pt
 date: 2023-07-26T01:00:00Z
-image: "FC2-PPV-3612986.jpg"
+image: "3612986.png"
 tags: [Uncensored, ]
 maker: []
 actress: []
@@ -13,7 +13,7 @@ actress: []
 
 <div class="video" data-videoid="3A6vwOR99Kudw1a">
     <a href="javascript:;">
-        <img src="https://my.j91.asia/posts/FC2-PPV-3612986/FC2-PPV-3612986.jpg" width="WIDTH" height="HEIGHT" alt="FC2-PPV-3612986.mp4" loading="lazy">
+        <img src="https://my.j91.asia/posts/FC2-PPV-3612986/3612986.jpg" width="WIDTH" height="HEIGHT" alt="FC2-PPV-3612986.mp4" loading="lazy">
     </a>
 </div>
 
