@@ -3,9 +3,9 @@ author: j91
 title: 420HHL-035 Y.A(20) Amateur Hoi Hoi Lover/Amateur/Personal Shooting/Beautiful Girl/Super M/Pajamas/Beautiful Breasts/Couple POV/Electric Massager (Yura Adachi)
 date: 2023-07-27T02:00:00Z
 image: "pb_e_420hhl-035.jpg"
-tags: [Amateur, ]
-maker: []
-actress: []
+tags: [Amateur, Beautiful Girl,Bukkake,Couple,Documentary,POV]
+maker: [ Fresh Amateurs]
+actress: [Yura Adachi]
 ---
 
 

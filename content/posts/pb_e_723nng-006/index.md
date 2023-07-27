@@ -3,8 +3,8 @@ author: j91
 title: 723NNG-006 The 6th Installment Of A School Series That Follows A Cute Girl Who Loves To Be Licked And Her Lessons. This Time, Ren-Chan, The Attendance Number 064, Who Transferred From An Ordinary School. She Calls Herself A Yin-Kyah, And Is A Girl Who Has Only Naughty Fantasies And Has Steadily Increased Her Lewdness By Herself. The Most Important Thing For Her As A Teacher Is Whether She Likes Sex From The Bottom Of Her Heart. She Always Smiles And Says Naughty Words, And Ren-Chan Who Enjoys Erotic Things Should Be A Star Of The School! ! There Is A Big Cock Blowjob, Cum Swallowing, And Vaginal Cum Shot, So Please Look Forward To It! !
 date: 2023-07-27T02:00:00Z
 image: "pb_e_723nng-006.jpg"
-tags: [Amateur, ]
-maker: []
+tags: [Amateur, Beautiful Girl,Breasts,Creampie,Sexy Legs,Slender,Uniform]
+maker: [723NNG]
 actress: []
 ---
 
