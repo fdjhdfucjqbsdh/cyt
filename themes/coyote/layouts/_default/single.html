@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="post">
-    <strong><h4><em>{{ .Title | safeHTML | truncate 300 }}</em></h4></strong>
+    <strong><h2><em>{{ .Title | safeHTML | truncate 20 }}</em></h2></strong>
 	<br>
 
 <!-- The Modal -->
@@ -52,6 +52,7 @@
   <section class="post__content">
     <div>
       <article>
+	      <h5> {{ .Title }} </h5>
           {{ .Content }}
       </article>
     </div>
