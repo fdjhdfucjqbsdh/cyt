@@ -40,7 +40,7 @@ actress: [Aizuki Himari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://streamruby.com/h89gfq1gu32b.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></div>
+    <a href="https://streamruby.com/h89gfq1gu32b.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></div>
 <br><br>
       </div>
     </div>

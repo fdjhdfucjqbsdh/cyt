@@ -40,7 +40,7 @@ actress: [Kururugi Aoi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://streamruby.com/luym5cty3gmz.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></div>
+    <a href="https://streamruby.com/luym5cty3gmz.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></div>
 <br><br>
       </div>
     </div>

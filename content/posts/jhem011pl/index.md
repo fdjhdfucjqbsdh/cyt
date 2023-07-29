@@ -40,7 +40,7 @@ actress: [Yoshino Kaoru, Uchihara Michiko, Segawa Shiho, Sugimoto Hidemi ,Miku M
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://streamruby.com/ntf8lnnuqidc.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></div>
+    <a href="https://streamruby.com/ntf8lnnuqidc.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></div>
 <br><br>
       </div>
     </div>
