@@ -4,6 +4,7 @@
 <link rel="icon" href="https://j91.asia/favicon.ico">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet" type="text/css" />
+<link rel='stylesheet' href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css'>
 
 <!-- Add other content here -->
 
@@ -23,10 +24,11 @@
   {{ $fusejs := resources.Get "js/fuse.basic.min.js" }}
   {{ $markjs := resources.Get "js/mark.min.js" }}
   {{ $search := resources.Get "js/search.js" }}
+  {{ $newnav := resources.Get "js/new-nav.js" }}
   {{ $fetch := resources.Get "js/iecompat/fetch.min.js" }}
   {{ $promises := resources.Get "js/iecompat/promises.min.js" }}
   {{ $remove := resources.Get "js/iecompat/remove.min.js" }}
   {{ $template := resources.Get "js/iecompat/template.min.js" }}
-  {{ $js := slice $fusejs $search $markjs $fetch $promises $remove $template | resources.Concat "js/bundle.js" | resources.Fingerprint "sha512" }}
+  {{ $js := slice $fusejs $search $newnav $markjs $fetch $promises $remove $template | resources.Concat "js/bundle.js" | resources.Fingerprint "sha512" }}
   <script defer type="text/javascript" src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 {{- end }}
